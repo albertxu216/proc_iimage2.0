@@ -1,0 +1,2710 @@
+           <...>-3563    [004] d..4. 11905.227481: bpf_trace_printk: 24064 delay 4448
+
+ test_proc_image-24064   [004] d..4. 11905.228405: bpf_trace_printk: 24234 delay 509858
+
+ test_proc_image-24234   [004] d..4. 11905.234142: bpf_trace_printk: 24235 delay 6194407
+
+ test_proc_image-24235   [004] d..4. 11905.238182: bpf_trace_printk: 24236 delay 10187313
+
+     ksoftirqd/4-41      [004] d..4. 11905.242845: bpf_trace_printk: 24237 delay 14809102
+
+ test_proc_image-24237   [004] d..4. 11905.245908: bpf_trace_printk: 24238 delay 17823338
+
+ test_proc_image-24238   [004] d..4. 11905.250175: bpf_trace_printk: 24239 delay 22028567
+
+ test_proc_image-24239   [004] d..4. 11905.253930: bpf_trace_printk: 24240 delay 25735018
+
+ test_proc_image-24240   [004] d..4. 11905.258168: bpf_trace_printk: 24241 delay 29926430
+
+ test_proc_image-24241   [004] d..4. 11905.262165: bpf_trace_printk: 24242 delay 33861515
+
+ test_proc_image-24242   [004] d..4. 11905.266152: bpf_trace_printk: 24243 delay 37799406
+
+ test_proc_image-24243   [004] d..4. 11905.270136: bpf_trace_printk: 24244 delay 41743759
+
+ test_proc_image-24244   [004] d..4. 11905.274146: bpf_trace_printk: 24233 delay 46295556
+
+ test_proc_image-24233   [004] d..4. 11905.278143: bpf_trace_printk: 24232 delay 50335110
+
+ test_proc_image-24232   [004] d..4. 11905.282156: bpf_trace_printk: 24231 delay 54392877
+
+ test_proc_image-24231   [004] d..4. 11905.286166: bpf_trace_printk: 24230 delay 58458171
+
+ test_proc_image-24230   [004] d..4. 11905.290164: bpf_trace_printk: 24237 delay 44257445
+
+ test_proc_image-24237   [004] d..4. 11905.294143: bpf_trace_printk: 24239 delay 40215406
+
+ test_proc_image-24239   [004] d..4. 11905.298161: bpf_trace_printk: 24243 delay 28022834
+
+ test_proc_image-24243   [004] d..4. 11905.302148: bpf_trace_printk: 24242 delay 35999207
+
+ test_proc_image-24242   [004] d..4. 11905.306159: bpf_trace_printk: 24241 delay 43998703
+
+ test_proc_image-24241   [004] d..4. 11905.310152: bpf_trace_printk: 24244 delay 36006590
+
+ test_proc_image-24244   [004] d..4. 11905.314156: bpf_trace_printk: 24235 delay 75981108
+
+ test_proc_image-24235   [004] d..4. 11905.318149: bpf_trace_printk: 24240 delay 59986946
+
+ test_proc_image-24240   [004] d..4. 11905.322150: bpf_trace_printk: 24238 delay 71979297
+
+ test_proc_image-24238   [004] d..4. 11905.326156: bpf_trace_printk: 24233 delay 48013460
+
+ test_proc_image-24233   [004] d..4. 11905.330135: bpf_trace_printk: 24236 delay 87314339
+
+ test_proc_image-24236   [004] d..4. 11905.334171: bpf_trace_printk: 24229 delay 106511997
+
+ test_proc_image-24229   [004] d..4. 11905.338161: bpf_trace_printk: 24232 delay 56002898
+
+ test_proc_image-24232   [004] d..4. 11905.342176: bpf_trace_printk: 24234 delay 108037966
+
+ test_proc_image-24234   [004] d..4. 11905.346173: bpf_trace_printk: 24231 delay 60008866
+
+ test_proc_image-24231   [004] d..4. 11905.350161: bpf_trace_printk: 24230 delay 59999989
+
+ test_proc_image-24230   [004] d..4. 11905.354173: bpf_trace_printk: 24237 delay 60030879
+
+ test_proc_image-24237   [004] d..4. 11905.358167: bpf_trace_printk: 24239 delay 60007284
+
+ test_proc_image-24239   [004] d..4. 11905.362166: bpf_trace_printk: 24243 delay 60017823
+
+ test_proc_image-24243   [004] d..4. 11905.366165: bpf_trace_printk: 24241 delay 56014670
+
+     kworker/4:1-174     [004] d..4. 11905.366314: bpf_trace_printk: 24242 delay 60160245
+
+ test_proc_image-24242   [004] d..4. 11905.370165: bpf_trace_printk: 24244 delay 56011483
+
+ test_proc_image-24244   [004] d..4. 11905.374170: bpf_trace_printk: 24235 delay 56020730
+
+ test_proc_image-24235   [004] d..4. 11905.379026: bpf_trace_printk: 24241 delay 12710341
+
+ test_proc_image-24241   [004] d..4. 11905.383001: bpf_trace_printk: 24240 delay 60847453
+
+ test_proc_image-24240   [004] d..4. 11905.386187: bpf_trace_printk: 24238 delay 60027963
+
+ test_proc_image-24238   [004] d..4. 11905.390213: bpf_trace_printk: 24233 delay 60072960
+
+ test_proc_image-24233   [004] d..4. 11905.394181: bpf_trace_printk: 24236 delay 60012125
+
+ test_proc_image-24236   [004] d..4. 11905.398207: bpf_trace_printk: 24229 delay 60047766
+
+ test_proc_image-24229   [004] d..4. 11905.402205: bpf_trace_printk: 24232 delay 60027328
+
+ test_proc_image-24232   [004] d..4. 11905.406211: bpf_trace_printk: 24234 delay 60038223
+
+ test_proc_image-24234   [004] d..4. 11905.410043: bpf_trace_printk: 24231 delay 59877287
+
+ test_proc_image-24231   [004] d..4. 11905.414187: bpf_trace_printk: 24230 delay 60012464
+
+ test_proc_image-24230   [004] d..4. 11905.418217: bpf_trace_printk: 24237 delay 60047150
+
+ test_proc_image-24237   [004] d..4. 11905.422219: bpf_trace_printk: 24240 delay 36029865
+
+ test_proc_image-24240   [004] d..4. 11905.425965: bpf_trace_printk: 24239 delay 63798476
+
+ test_proc_image-24239   [004] d..4. 11905.430202: bpf_trace_printk: 24242 delay 60034657
+
+ test_proc_image-24242   [004] d..4. 11905.434078: bpf_trace_printk: 24243 delay 67913398
+
+ test_proc_image-24243   [004] d..4. 11905.437945: bpf_trace_printk: 24244 delay 63771530
+
+ test_proc_image-24244   [004] d..4. 11905.442179: bpf_trace_printk: 24241 delay 59179208
+
+ test_proc_image-24241   [004] d..4. 11905.446188: bpf_trace_printk: 24238 delay 55980182
+
+ test_proc_image-24238   [004] d..4. 11905.450190: bpf_trace_printk: 24233 delay 56010761
+
+ test_proc_image-24233   [004] d..4. 11905.454208: bpf_trace_printk: 24236 delay 56003112
+
+ test_proc_image-24236   [004] d..4. 11905.458222: bpf_trace_printk: 24235 delay 79199367
+
+ test_proc_image-24235   [004] d..4. 11905.462224: bpf_trace_printk: 24229 delay 60019912
+
+ test_proc_image-24229   [004] d..4. 11905.466223: bpf_trace_printk: 24232 delay 60014609
+
+ test_proc_image-24232   [004] d..4. 11905.470202: bpf_trace_printk: 24234 delay 60163100
+
+ test_proc_image-24234   [004] d..4. 11905.474182: bpf_trace_printk: 24231 delay 60001493
+
+ test_proc_image-24231   [004] d..4. 11905.478181: bpf_trace_printk: 24237 delay 55970866
+
+ test_proc_image-24237   [004] d..4. 11905.482241: bpf_trace_printk: 24230 delay 64024325
+
+ test_proc_image-24230   [004] d..4. 11905.486192: bpf_trace_printk: 24240 delay 60229386
+
+ test_proc_image-24240   [004] d..4. 11905.490186: bpf_trace_printk: 24242 delay 56111308
+
+ test_proc_image-24242   [004] d..4. 11905.494185: bpf_trace_printk: 24243 delay 56246364
+
+ test_proc_image-24243   [004] d..4. 11905.498192: bpf_trace_printk: 24239 delay 67993184
+
+ test_proc_image-24239   [004] d..4. 11905.502191: bpf_trace_printk: 24241 delay 56004751
+
+ test_proc_image-24241   [004] d..4. 11905.505952: bpf_trace_printk: 24244 delay 63777856
+
+ test_proc_image-24244   [004] d..4. 11905.510189: bpf_trace_printk: 24238 delay 60002154
+
+ test_proc_image-24238   [004] d..4. 11905.514211: bpf_trace_printk: 24233 delay 60006272
+
+ test_proc_image-24233   [004] d..4. 11905.518192: bpf_trace_printk: 24236 delay 59979030
+
+ test_proc_image-24236   [004] d..4. 11905.522207: bpf_trace_printk: 24235 delay 59989320
+
+ test_proc_image-24235   [004] d..4. 11905.526235: bpf_trace_printk: 24229 delay 60010560
+
+ test_proc_image-24229   [004] d..4. 11905.530229: bpf_trace_printk: 24232 delay 60028514
+
+ test_proc_image-24232   [004] d..4. 11905.534195: bpf_trace_printk: 24234 delay 60014808
+
+ test_proc_image-24234   [004] d..4. 11905.538194: bpf_trace_printk: 24231 delay 60013456
+
+ test_proc_image-24231   [004] d..4. 11905.542227: bpf_trace_printk: 24230 delay 56036771
+
+ test_proc_image-24230   [004] d..4. 11905.546211: bpf_trace_printk: 24237 delay 63975367
+
+ test_proc_image-24237   [004] d..4. 11905.550194: bpf_trace_printk: 24240 delay 60008270
+
+ test_proc_image-24240   [004] d..4. 11905.554192: bpf_trace_printk: 24242 delay 60009724
+
+ test_proc_image-24242   [004] d..4. 11905.558210: bpf_trace_printk: 24243 delay 60021666
+
+ test_proc_image-24243   [004] d..4. 11905.562214: bpf_trace_printk: 24241 delay 56259991
+
+ test_proc_image-24241   [004] d..4. 11905.566215: bpf_trace_printk: 24239 delay 64023137
+
+ test_proc_image-24239   [004] d..4. 11905.570211: bpf_trace_printk: 24238 delay 55993665
+
+ test_proc_image-24238   [004] d..4. 11905.574221: bpf_trace_printk: 24233 delay 56026503
+
+ test_proc_image-24233   [004] d..4. 11905.578207: bpf_trace_printk: 24244 delay 68018494
+
+ test_proc_image-24244   [004] d..4. 11905.582210: bpf_trace_printk: 24236 delay 60005110
+
+ test_proc_image-24236   [004] d..4. 11905.586194: bpf_trace_printk: 24235 delay 59966982
+
+ test_proc_image-24235   [004] d..4. 11905.590217: bpf_trace_printk: 24232 delay 56023576
+
+ test_proc_image-24232   [004] d..4. 11905.594209: bpf_trace_printk: 24229 delay 63986063
+
+ test_proc_image-24229   [004] d..4. 11905.598204: bpf_trace_printk: 24234 delay 60011452
+
+ test_proc_image-24234   [004] d..4. 11905.602201: bpf_trace_printk: 24231 delay 59977108
+
+ test_proc_image-24231   [004] d..4. 11905.606218: bpf_trace_printk: 24230 delay 60008562
+
+ test_proc_image-24230   [004] d..4. 11905.610214: bpf_trace_printk: 24237 delay 60020886
+
+ test_proc_image-24237   [004] d..4. 11905.614216: bpf_trace_printk: 24240 delay 60023791
+
+ test_proc_image-24240   [004] d..4. 11905.618206: bpf_trace_printk: 24242 delay 59997371
+
+ test_proc_image-24242   [004] d..4. 11905.621944: bpf_trace_printk: 24243 delay 59733823
+
+ test_proc_image-24243   [004] d..4. 11905.625951: bpf_trace_printk: 24241 delay 59740386
+
+ test_proc_image-24241   [004] d..4. 11905.630381: bpf_trace_printk: 24239 delay 59757708
+
+ test_proc_image-24239   [004] d..4. 11905.633932: bpf_trace_printk: 24238 delay 59717437
+
+ test_proc_image-24238   [004] d..4. 11905.638283: bpf_trace_printk: 24233 delay 60058183
+
+ test_proc_image-24233   [004] d..4. 11905.641882: bpf_trace_printk: 24244 delay 59675437
+
+ test_proc_image-24244   [004] d..4. 11905.645936: bpf_trace_printk: 24236 delay 59743933
+
+ test_proc_image-24236   [004] d..4. 11905.650078: bpf_trace_printk: 24235 delay 59863345
+
+ test_proc_image-24235   [004] d..4. 11905.653997: bpf_trace_printk: 24232 delay 59783763
+
+ test_proc_image-24232   [004] d..4. 11905.657964: bpf_trace_printk: 24229 delay 59758916
+
+ test_proc_image-24229   [004] d..4. 11905.661936: bpf_trace_printk: 24234 delay 59736603
+
+ test_proc_image-24234   [004] d..4. 11905.665949: bpf_trace_printk: 24231 delay 59732052
+
+ test_proc_image-24231   [004] d..4. 11905.670231: bpf_trace_printk: 24230 delay 60018235
+
+ test_proc_image-24230   [004] d..4. 11905.674225: bpf_trace_printk: 24237 delay 60010571
+
+ test_proc_image-24237   [004] d..4. 11905.678217: bpf_trace_printk: 24240 delay 60013016
+
+ test_proc_image-24240   [004] d..4. 11905.682385: bpf_trace_printk: 24242 delay 60442749
+
+ test_proc_image-24242   [004] d..4. 11905.686239: bpf_trace_printk: 24243 delay 60285249
+
+ test_proc_image-24243   [004] d..4. 11905.690217: bpf_trace_printk: 24241 delay 60260964
+
+ test_proc_image-24241   [004] d..4. 11905.694205: bpf_trace_printk: 24239 delay 60276062
+
+ test_proc_image-24239   [004] d..4. 11905.698237: bpf_trace_printk: 24233 delay 56355465
+
+ test_proc_image-24233   [004] d..4. 11905.702215: bpf_trace_printk: 24244 delay 56281613
+
+ test_proc_image-24244   [004] d..4. 11905.706211: bpf_trace_printk: 24238 delay 67951984
+
+ test_proc_image-24238   [004] d..4. 11905.710214: bpf_trace_printk: 24235 delay 56225849
+
+ test_proc_image-24235   [004] d..4. 11905.714226: bpf_trace_printk: 24236 delay 64147146
+
+ test_proc_image-24236   [004] d..4. 11905.718221: bpf_trace_printk: 24232 delay 60262215
+
+ test_proc_image-24232   [004] d..4. 11905.722216: bpf_trace_printk: 24229 delay 60282334
+
+ test_proc_image-24229   [004] d..4. 11905.726215: bpf_trace_printk: 24234 delay 60273030
+
+ test_proc_image-24234   [004] d..4. 11905.730218: bpf_trace_printk: 24231 delay 59991245
+
+ test_proc_image-24231   [004] d..4. 11905.734205: bpf_trace_printk: 24230 delay 59984451
+
+ test_proc_image-24230   [004] d..4. 11905.738219: bpf_trace_printk: 24237 delay 60004389
+
+ test_proc_image-24237   [004] d..4. 11905.742201: bpf_trace_printk: 24242 delay 55969615
+
+ test_proc_image-24242   [004] d..4. 11905.746248: bpf_trace_printk: 24240 delay 63862909
+
+ test_proc_image-24240   [004] d..4. 11905.750226: bpf_trace_printk: 24243 delay 60011803
+
+ test_proc_image-24243   [004] d..4. 11905.754222: bpf_trace_printk: 24241 delay 60016932
+
+ test_proc_image-24241   [004] d..4. 11905.758174: bpf_trace_printk: 24233 delay 55961119
+
+ test_proc_image-24233   [004] d..4. 11905.762241: bpf_trace_printk: 24239 delay 64005460
+
+ test_proc_image-24239   [004] d..4. 11905.766221: bpf_trace_printk: 24244 delay 60011623
+
+ test_proc_image-24244   [004] d..4. 11905.769925: bpf_trace_printk: 24238 delay 59712364
+
+ test_proc_image-24238   [004] d..4. 11905.774225: bpf_trace_printk: 24235 delay 60003287
+
+ test_proc_image-24235   [004] d..4. 11905.778231: bpf_trace_printk: 24236 delay 60010021
+
+ test_proc_image-24236   [004] d..4. 11905.782230: bpf_trace_printk: 24232 delay 60014739
+
+ test_proc_image-24232   [004] d..4. 11905.786227: bpf_trace_printk: 24229 delay 60013265
+
+ test_proc_image-24229   [004] d..4. 11905.790230: bpf_trace_printk: 24234 delay 60013546
+
+ test_proc_image-24234   [004] d..4. 11905.794231: bpf_trace_printk: 24231 delay 60026642
+
+ test_proc_image-24231   [004] d..4. 11905.798235: bpf_trace_printk: 24230 delay 60016943
+
+ test_proc_image-24230   [004] d..4. 11905.802233: bpf_trace_printk: 24237 delay 60033525
+
+ test_proc_image-24237   [004] d..4. 11905.806225: bpf_trace_printk: 24240 delay 55999261
+
+ test_proc_image-24240   [004] d..4. 11905.810236: bpf_trace_printk: 24242 delay 63992946
+
+ test_proc_image-24242   [004] d..4. 11905.814235: bpf_trace_printk: 24243 delay 60015030
+
+ test_proc_image-24243   [004] d..4. 11905.818233: bpf_trace_printk: 24241 delay 60060516
+
+ test_proc_image-24241   [004] d..4. 11905.822266: bpf_trace_printk: 24239 delay 56044056
+
+ test_proc_image-24239   [004] d..4. 11905.826238: bpf_trace_printk: 24233 delay 64000029
+
+ test_proc_image-24233   [004] d..4. 11905.830236: bpf_trace_printk: 24244 delay 60311923
+
+ test_proc_image-24244   [004] d..4. 11905.834238: bpf_trace_printk: 24235 delay 56011183
+
+ test_proc_image-24235   [004] d..4. 11905.838245: bpf_trace_printk: 24236 delay 56017265
+
+ test_proc_image-24236   [004] d..4. 11905.842252: bpf_trace_printk: 24238 delay 68016770
+
+ test_proc_image-24238   [004] d..4. 11905.846240: bpf_trace_printk: 24232 delay 60015270
+
+ test_proc_image-24232   [004] d..4. 11905.850061: bpf_trace_printk: 24229 delay 59832533
+
+ test_proc_image-24229   [004] d..4. 11905.854252: bpf_trace_printk: 24234 delay 60021071
+
+ test_proc_image-24234   [004] d..4. 11905.858242: bpf_trace_printk: 24231 delay 60008947
+
+ test_proc_image-24231   [004] d..4. 11905.862253: bpf_trace_printk: 24230 delay 60022022
+
+ test_proc_image-24230   [004] d..4. 11905.866243: bpf_trace_printk: 24237 delay 60021972
+
+ test_proc_image-24237   [004] d..4. 11905.870264: bpf_trace_printk: 24240 delay 60029297
+
+ test_proc_image-24240   [004] d..4. 11905.873946: bpf_trace_printk: 24242 delay 59712324
+
+ test_proc_image-24242   [004] d..4. 11905.878245: bpf_trace_printk: 24243 delay 60013025
+
+ test_proc_image-24243   [004] d..4. 11905.882258: bpf_trace_printk: 24241 delay 59996434
+
+ test_proc_image-24241   [004] d..4. 11905.886267: bpf_trace_printk: 24239 delay 60027534
+
+ test_proc_image-24239   [004] d..4. 11905.890264: bpf_trace_printk: 24233 delay 60026181
+
+ test_proc_image-24233   [004] d..4. 11905.894245: bpf_trace_printk: 24244 delay 60004369
+
+ test_proc_image-24244   [004] d..4. 11905.898292: bpf_trace_printk: 24232 delay 48224050
+
+ test_proc_image-24232   [004] d..4. 11905.902253: bpf_trace_printk: 24235 delay 64009127
+
+ test_proc_image-24235   [004] d..4. 11905.906255: bpf_trace_printk: 24236 delay 64015348
+
+ test_proc_image-24236   [004] d..4. 11905.910251: bpf_trace_printk: 24238 delay 64012133
+
+ test_proc_image-24238   [004] d..4. 11905.914260: bpf_trace_printk: 24229 delay 60010701
+
+ test_proc_image-24229   [004] d..4. 11905.918263: bpf_trace_printk: 24234 delay 60020831
+
+ test_proc_image-24234   [004] d..4. 11905.922256: bpf_trace_printk: 24231 delay 60003277
+
+ test_proc_image-24231   [004] d..4. 11905.926253: bpf_trace_printk: 24230 delay 60011092
+
+ test_proc_image-24230   [004] d..4. 11905.929998: bpf_trace_printk: 24240 delay 56027878
+
+ test_proc_image-24240   [004] d..4. 11905.933929: bpf_trace_printk: 24237 delay 63667331
+
+ test_proc_image-24237   [004] d..4. 11905.938073: bpf_trace_printk: 24242 delay 59827586
+
+ test_proc_image-24242   [004] d..4. 11905.942068: bpf_trace_printk: 24243 delay 59809512
+
+ test_proc_image-24243   [004] d..4. 11905.946304: bpf_trace_printk: 24241 delay 60037236
+
+ test_proc_image-24241   [004] d..4. 11905.950264: bpf_trace_printk: 24239 delay 60003242
+
+ test_proc_image-24239   [004] d..4. 11905.954281: bpf_trace_printk: 24233 delay 60035463
+
+ test_proc_image-24233   [004] d..4. 11905.958125: bpf_trace_printk: 24244 delay 59841775
+
+ test_proc_image-24244   [004] d..4. 11905.962290: bpf_trace_printk: 24232 delay 60033910
+
+ test_proc_image-24232   [004] d..4. 11905.966290: bpf_trace_printk: 24235 delay 60033290
+
+ test_proc_image-24235   [004] d..4. 11905.970278: bpf_trace_printk: 24236 delay 60024882
+
+ test_proc_image-24236   [004] d..4. 11905.974274: bpf_trace_printk: 24238 delay 60014092
+
+ test_proc_image-24238   [004] d..4. 11905.978281: bpf_trace_printk: 24229 delay 60019139
+
+ test_proc_image-24229   [004] d..4. 11905.982285: bpf_trace_printk: 24234 delay 60027635
+
+ test_proc_image-24234   [004] d..4. 11905.986262: bpf_trace_printk: 24231 delay 60008358
+
+ test_proc_image-24231   [004] d..4. 11905.990285: bpf_trace_printk: 24230 delay 60311271
+
+ test_proc_image-24230   [004] d..4. 11905.994292: bpf_trace_printk: 24240 delay 60361225
+
+ test_proc_image-24240   [004] d..4. 11905.998287: bpf_trace_printk: 24237 delay 60213666
+
+ test_proc_image-24237   [004] d..4. 11906.002281: bpf_trace_printk: 24242 delay 60213644
+
+ test_proc_image-24242   [004] d..4. 11906.006290: bpf_trace_printk: 24241 delay 56025917
+
+ test_proc_image-24241   [004] d..4. 11906.010277: bpf_trace_printk: 24233 delay 52153351
+
+ test_proc_image-24233   [004] d..4. 11906.014298: bpf_trace_printk: 24239 delay 60020627
+
+ test_proc_image-24239   [004] d..4. 11906.018266: bpf_trace_printk: 24243 delay 71966960
+
+ test_proc_image-24243   [004] d..4. 11906.022282: bpf_trace_printk: 24244 delay 59997292
+
+ test_proc_image-24244   [004] d..4. 11906.026284: bpf_trace_printk: 24232 delay 59998093
+
+ test_proc_image-24232   [004] d..4. 11906.030393: bpf_trace_printk: 24235 delay 60118053
+
+ test_proc_image-24235   [004] d..4. 11906.034283: bpf_trace_printk: 24236 delay 60010818
+
+ test_proc_image-24236   [004] d..4. 11906.038090: bpf_trace_printk: 24238 delay 59809811
+
+ test_proc_image-24238   [004] d..4. 11906.042078: bpf_trace_printk: 24229 delay 59797829
+
+ test_proc_image-24229   [004] d..4. 11906.045975: bpf_trace_printk: 24234 delay 59713559
+
+ test_proc_image-24234   [004] d..4. 11906.050058: bpf_trace_printk: 24231 delay 59777029
+
+ test_proc_image-24231   [004] d..4. 11906.054307: bpf_trace_printk: 24230 delay 60017442
+
+ test_proc_image-24230   [004] d..4. 11906.058296: bpf_trace_printk: 24240 delay 60008826
+
+ test_proc_image-24240   [004] d..4. 11906.062300: bpf_trace_printk: 24237 delay 60018906
+
+ test_proc_image-24237   [004] d..4. 11906.066311: bpf_trace_printk: 24242 delay 60022422
+
+ test_proc_image-24242   [004] d..4. 11906.070298: bpf_trace_printk: 24241 delay 60020739
+
+ test_proc_image-24241   [004] d..4. 11906.074289: bpf_trace_printk: 24233 delay 59993977
+
+ test_proc_image-24233   [004] d..4. 11906.078288: bpf_trace_printk: 24239 delay 60023815
+
+ test_proc_image-24239   [004] d..4. 11906.082299: bpf_trace_printk: 24243 delay 60017492
+
+ test_proc_image-24243   [004] d..4. 11906.086293: bpf_trace_printk: 24244 delay 60010429
+
+ test_proc_image-24244   [004] d..4. 11906.090303: bpf_trace_printk: 24236 delay 52213656
+
+ test_proc_image-24236   [004] d..4. 11906.094286: bpf_trace_printk: 24235 delay 60006121
+
+ test_proc_image-24235   [004] d..4. 11906.098293: bpf_trace_printk: 24232 delay 67902160
+
+ test_proc_image-24232   [004] d..4. 11906.102091: bpf_trace_printk: 24238 delay 60015076
+
+ test_proc_image-24238   [004] d..4. 11906.106303: bpf_trace_printk: 24229 delay 60329433
+
+ test_proc_image-24229   [004] d..4. 11906.110291: bpf_trace_printk: 24234 delay 60234313
+
+ test_proc_image-24234   [004] d..4. 11906.114308: bpf_trace_printk: 24231 delay 60003548
+
+ test_proc_image-24231   [004] d..4. 11906.118295: bpf_trace_printk: 24230 delay 60005551
+
+ test_proc_image-24230   [004] d..4. 11906.122312: bpf_trace_printk: 24240 delay 60013847
+
+ test_proc_image-24240   [004] d..4. 11906.126296: bpf_trace_printk: 24237 delay 59989542
+
+ test_proc_image-24237   [004] d..4. 11906.130315: bpf_trace_printk: 24242 delay 60016823
+
+ test_proc_image-24242   [004] d..4. 11906.134292: bpf_trace_printk: 24241 delay 60006834
+
+ test_proc_image-24241   [004] d..4. 11906.138299: bpf_trace_printk: 24233 delay 60011763
+
+ test_proc_image-24233   [004] d..4. 11906.142291: bpf_trace_printk: 24239 delay 59995664
+
+ test_proc_image-24239   [004] d..4. 11906.145916: bpf_trace_printk: 24243 delay 59624538
+
+ test_proc_image-24243   [004] d..4. 11906.150296: bpf_trace_printk: 24244 delay 59997947
+
+ test_proc_image-24244   [004] d..4. 11906.154315: bpf_trace_printk: 24236 delay 60026742
+
+ test_proc_image-24236   [004] d..4. 11906.158296: bpf_trace_printk: 24232 delay 56205633
+
+ test_proc_image-24232   [004] d..4. 11906.162307: bpf_trace_printk: 24235 delay 64015680
+
+ test_proc_image-24235   [004] d..4. 11906.166300: bpf_trace_printk: 24229 delay 56010311
+
+ test_proc_image-24229   [004] d..4. 11906.170302: bpf_trace_printk: 24238 delay 64002495
+
+ test_proc_image-24238   [004] d..4. 11906.174302: bpf_trace_printk: 24234 delay 59997046
+
+ test_proc_image-24234   [004] d..4. 11906.178309: bpf_trace_printk: 24231 delay 60013857
+
+ test_proc_image-24231   [004] d..4. 11906.182308: bpf_trace_printk: 24230 delay 59999190
+
+ test_proc_image-24230   [004] d..4. 11906.186303: bpf_trace_printk: 24240 delay 60008857
+
+ test_proc_image-24240   [004] d..4. 11906.190309: bpf_trace_printk: 24237 delay 59998348
+
+ test_proc_image-24237   [004] d..4. 11906.194305: bpf_trace_printk: 24239 delay 48391388
+
+ test_proc_image-24239   [004] d..4. 11906.198319: bpf_trace_printk: 24242 delay 64026891
+
+ test_proc_image-24242   [004] d..4. 11906.202302: bpf_trace_printk: 24241 delay 64006182
+
+ test_proc_image-24241   [004] d..4. 11906.206310: bpf_trace_printk: 24233 delay 64019336
+
+ test_proc_image-24233   [004] d..4. 11906.210305: bpf_trace_printk: 24243 delay 60010501
+
+ test_proc_image-24243   [004] d..4. 11906.214315: bpf_trace_printk: 24244 delay 60004148
+
+ test_proc_image-24244   [004] d..4. 11906.218308: bpf_trace_printk: 24236 delay 60013256
+
+ test_proc_image-24236   [004] d..4. 11906.222317: bpf_trace_printk: 24232 delay 60011553
+
+ test_proc_image-24232   [004] d..4. 11906.226106: bpf_trace_printk: 24235 delay 59807676
+
+ test_proc_image-24235   [004] d..4. 11906.230317: bpf_trace_printk: 24229 delay 60014858
+
+ test_proc_image-24229   [004] d..4. 11906.234315: bpf_trace_printk: 24238 delay 60013396
+
+ test_proc_image-24238   [004] d..4. 11906.238323: bpf_trace_printk: 24234 delay 60015050
+
+ test_proc_image-24234   [004] d..4. 11906.242326: bpf_trace_printk: 24231 delay 60018856
+
+ test_proc_image-24231   [004] d..4. 11906.245860: bpf_trace_printk: 24230 delay 59555917
+
+ test_proc_image-24230   [004] d..4. 11906.250318: bpf_trace_printk: 24240 delay 60012114
+
+ test_proc_image-24240   [004] d..4. 11906.254422: bpf_trace_printk: 24237 delay 60115676
+
+ test_proc_image-24237   [004] d..4. 11906.258320: bpf_trace_printk: 24239 delay 60002235
+
+ test_proc_image-24239   [004] d..4. 11906.262327: bpf_trace_printk: 24242 delay 60024247
+
+ test_proc_image-24242   [004] d..4. 11906.266519: bpf_trace_printk: 24241 delay 60210952
+
+ test_proc_image-24241   [004] d..4. 11906.270330: bpf_trace_printk: 24233 delay 60023305
+
+ test_proc_image-24233   [004] d..4. 11906.274322: bpf_trace_printk: 24232 delay 48216155
+
+ test_proc_image-24232   [004] d..4. 11906.278320: bpf_trace_printk: 24243 delay 64006432
+
+ test_proc_image-24243   [004] d..4. 11906.282324: bpf_trace_printk: 24244 delay 64016491
+
+ test_proc_image-24244   [004] d..4. 11906.286338: bpf_trace_printk: 24236 delay 64020779
+
+ test_proc_image-24236   [004] d..4. 11906.290325: bpf_trace_printk: 24235 delay 60010431
+
+ test_proc_image-24235   [004] d..4. 11906.294316: bpf_trace_printk: 24229 delay 60004599
+
+ test_proc_image-24229   [004] d..4. 11906.298322: bpf_trace_printk: 24238 delay 60001544
+
+ test_proc_image-24238   [004] d..4. 11906.302308: bpf_trace_printk: 24234 delay 59985042
+
+ test_proc_image-24234   [004] d..4. 11906.305874: bpf_trace_printk: 24231 delay 60017394
+
+ test_proc_image-24231   [004] d..4. 11906.310339: bpf_trace_printk: 24240 delay 55919865
+
+ test_proc_image-24240   [004] d..4. 11906.314334: bpf_trace_printk: 24237 delay 56014991
+
+ test_proc_image-24237   [004] d..4. 11906.318333: bpf_trace_printk: 24230 delay 68016789
+
+ test_proc_image-24230   [004] d..4. 11906.322338: bpf_trace_printk: 24239 delay 60012354
+
+ test_proc_image-24239   [004] d..4. 11906.326336: bpf_trace_printk: 24241 delay 56009470
+
+     kworker/4:1-174     [004] d..4. 11906.330364: bpf_trace_printk: 24242 delay 63845465
+
+ test_proc_image-24242   [004] d..4. 11906.334339: bpf_trace_printk: 24233 delay 60018225
+
+ test_proc_image-24233   [004] d..4. 11906.338340: bpf_trace_printk: 24232 delay 60021351
+
+ test_proc_image-24232   [004] d..4. 11906.342330: bpf_trace_printk: 24243 delay 60008496
+
+ test_proc_image-24243   [004] d..4. 11906.346326: bpf_trace_printk: 24244 delay 59992376
+
+ test_proc_image-24244   [004] d..4. 11906.350347: bpf_trace_printk: 24236 delay 60021491
+
+ test_proc_image-24236   [004] d..4. 11906.354334: bpf_trace_printk: 24235 delay 60013837
+
+ test_proc_image-24235   [004] d..4. 11906.358334: bpf_trace_printk: 24229 delay 60013536
+
+ test_proc_image-24229   [004] d..4. 11906.362329: bpf_trace_printk: 24238 delay 60022885
+
+ test_proc_image-24238   [004] d..4. 11906.366330: bpf_trace_printk: 24234 delay 60458702
+
+ test_proc_image-24234   [004] d..4. 11906.370333: bpf_trace_printk: 24231 delay 59997846
+
+ test_proc_image-24231   [004] d..4. 11906.374330: bpf_trace_printk: 24240 delay 60000451
+
+ test_proc_image-24240   [004] d..4. 11906.378242: bpf_trace_printk: 24237 delay 59911193
+
+ test_proc_image-24237   [004] d..4. 11906.381855: bpf_trace_printk: 24230 delay 59521261
+
+ test_proc_image-24230   [004] d..4. 11906.386332: bpf_trace_printk: 24239 delay 59999770
+
+ test_proc_image-24239   [004] d..4. 11906.390337: bpf_trace_printk: 24241 delay 59987197
+
+ test_proc_image-24241   [004] d..4. 11906.394338: bpf_trace_printk: 24242 delay 60002446
+
+ test_proc_image-24242   [004] d..4. 11906.397851: bpf_trace_printk: 24233 delay 59514839
+
+ test_proc_image-24233   [004] d..4. 11906.401853: bpf_trace_printk: 24232 delay 59526812
+
+ test_proc_image-24232   [004] d..4. 11906.406339: bpf_trace_printk: 24243 delay 60010080
+
+ test_proc_image-24243   [004] d..4. 11906.410351: bpf_trace_printk: 24244 delay 60006494
+
+ test_proc_image-24244   [004] d..4. 11906.414371: bpf_trace_printk: 24236 delay 60038183
+
+ test_proc_image-24236   [004] d..4. 11906.418348: bpf_trace_printk: 24235 delay 60015730
+
+ test_proc_image-24235   [004] d..4. 11906.422403: bpf_trace_printk: 24229 delay 60061648
+
+ test_proc_image-24229   [004] d..4. 11906.425907: bpf_trace_printk: 24238 delay 59574733
+
+ test_proc_image-24238   [004] d..4. 11906.430359: bpf_trace_printk: 24234 delay 60024347
+
+ test_proc_image-24234   [004] d..4. 11906.434355: bpf_trace_printk: 24231 delay 60023425
+
+ test_proc_image-24231   [004] d..4. 11906.437909: bpf_trace_printk: 24237 delay 56046540
+
+ test_proc_image-24237   [004] d..4. 11906.442377: bpf_trace_printk: 24240 delay 64131078
+
+ test_proc_image-24240   [004] d..4. 11906.446372: bpf_trace_printk: 24242 delay 48515965
+
+ test_proc_image-24242   [004] d..4. 11906.450353: bpf_trace_printk: 24239 delay 60017694
+
+ test_proc_image-24239   [004] d..4. 11906.454359: bpf_trace_printk: 24230 delay 68026218
+
+ test_proc_image-24230   [004] d..4. 11906.458357: bpf_trace_printk: 24241 delay 64018665
+
+ test_proc_image-24241   [004] d..4. 11906.462354: bpf_trace_printk: 24233 delay 60500521
+
+ test_proc_image-24233   [004] d..4. 11906.466358: bpf_trace_printk: 24243 delay 56008828
+
+ test_proc_image-24243   [004] d..4. 11906.470354: bpf_trace_printk: 24244 delay 55989863
+
+ test_proc_image-24244   [004] d..4. 11906.473870: bpf_trace_printk: 24229 delay 47963295
+
+ test_proc_image-24229   [004] d..4. 11906.477856: bpf_trace_printk: 24236 delay 59510150
+
+ test_proc_image-24236   [004] d..4. 11906.482370: bpf_trace_printk: 24232 delay 76035102
+
+ test_proc_image-24232   [004] d..4. 11906.485868: bpf_trace_printk: 24235 delay 63481254
+
+ test_proc_image-24235   [004] d..4. 11906.489881: bpf_trace_printk: 24234 delay 55526303
+
+ test_proc_image-24234   [004] d..4. 11906.493854: bpf_trace_printk: 24238 delay 63498958
+
+ test_proc_image-24238   [004] d..4. 11906.497868: bpf_trace_printk: 24231 delay 59965796
+
+ test_proc_image-24231   [004] d..4. 11906.501872: bpf_trace_printk: 24240 delay 55507437
+
+ test_proc_image-24240   [004] d..4. 11906.505888: bpf_trace_printk: 24237 delay 63511833
+
+ test_proc_image-24237   [004] d..4. 11906.509862: bpf_trace_printk: 24242 delay 59511012
+
+ test_proc_image-24242   [004] d..4. 11906.513890: bpf_trace_printk: 24239 delay 59530690
+
+ test_proc_image-24239   [004] d..4. 11906.517868: bpf_trace_printk: 24230 delay 59513487
+
+ test_proc_image-24230   [004] d..4. 11906.521888: bpf_trace_printk: 24241 delay 59530650
+
+ test_proc_image-24241   [004] d..4. 11906.525865: bpf_trace_printk: 24233 delay 59509429
+
+ test_proc_image-24233   [004] d..4. 11906.529882: bpf_trace_printk: 24244 delay 56013769
+
+ test_proc_image-24244   [004] d..4. 11906.533878: bpf_trace_printk: 24232 delay 48008491
+
+ test_proc_image-24232   [004] d..4. 11906.537912: bpf_trace_printk: 24243 delay 67554693
+
+ test_proc_image-24243   [004] d..4. 11906.541873: bpf_trace_printk: 24229 delay 64017884
+
+ test_proc_image-24229   [004] d..4. 11906.545914: bpf_trace_printk: 24235 delay 56034738
+
+ test_proc_image-24235   [004] d..4. 11906.549890: bpf_trace_printk: 24236 delay 67523634
+
+ test_proc_image-24236   [004] d..4. 11906.553855: bpf_trace_printk: 24234 delay 60002987
+
+ test_proc_image-24234   [004] d..4. 11906.557862: bpf_trace_printk: 24238 delay 59996996
+
+ test_proc_image-24238   [004] d..4. 11906.561894: bpf_trace_printk: 24231 delay 60021652
+
+ test_proc_image-24231   [004] d..4. 11906.565887: bpf_trace_printk: 24240 delay 60003076
+
+ test_proc_image-24240   [004] d..4. 11906.569871: bpf_trace_printk: 24237 delay 60011142
+
+ test_proc_image-24237   [004] d..4. 11906.573886: bpf_trace_printk: 24242 delay 59997857
+
+ test_proc_image-24242   [004] d..4. 11906.577870: bpf_trace_printk: 24239 delay 60004860
+
+ test_proc_image-24239   [004] d..4. 11906.581901: bpf_trace_printk: 24241 delay 56034969
+
+ test_proc_image-24241   [004] d..4. 11906.585874: bpf_trace_printk: 24230 delay 63992866
+
+ test_proc_image-24230   [004] d..4. 11906.589899: bpf_trace_printk: 24233 delay 60018075
+
+ test_proc_image-24233   [004] d..4. 11906.593876: bpf_trace_printk: 24244 delay 60001324
+
+ test_proc_image-24244   [004] d..4. 11906.597904: bpf_trace_printk: 24243 delay 56027826
+
+ test_proc_image-24243   [004] d..4. 11906.601861: bpf_trace_printk: 24232 delay 63955676
+
+ test_proc_image-24232   [004] d..4. 11906.605908: bpf_trace_printk: 24229 delay 59994370
+
+ test_proc_image-24229   [004] d..4. 11906.609881: bpf_trace_printk: 24235 delay 59991956
+
+ test_proc_image-24235   [004] d..4. 11906.613931: bpf_trace_printk: 24236 delay 60072724
+
+ test_proc_image-24236   [004] d..4. 11906.617867: bpf_trace_printk: 24234 delay 60007460
+
+ test_proc_image-24234   [004] d..4. 11906.621901: bpf_trace_printk: 24238 delay 60005938
+
+ test_proc_image-24238   [004] d..4. 11906.625862: bpf_trace_printk: 24231 delay 59979908
+
+ test_proc_image-24231   [004] d..4. 11906.629912: bpf_trace_printk: 24240 delay 60038945
+
+ test_proc_image-24240   [004] d..4. 11906.633867: bpf_trace_printk: 24237 delay 59985724
+
+ test_proc_image-24237   [004] d..4. 11906.637895: bpf_trace_printk: 24242 delay 60024448
+
+ test_proc_image-24242   [004] d..4. 11906.641883: bpf_trace_printk: 24239 delay 59983621
+
+ test_proc_image-24239   [004] d..4. 11906.645893: bpf_trace_printk: 24241 delay 60018477
+
+ test_proc_image-24241   [004] d..4. 11906.649889: bpf_trace_printk: 24230 delay 59992437
+
+ test_proc_image-24230   [004] d..4. 11906.653887: bpf_trace_printk: 24233 delay 60012685
+
+ test_proc_image-24233   [004] d..4. 11906.657903: bpf_trace_printk: 24244 delay 60001775
+
+ test_proc_image-24244   [004] d..4. 11906.661906: bpf_trace_printk: 24243 delay 60045137
+
+ test_proc_image-24243   [004] d..4. 11906.665919: bpf_trace_printk: 24232 delay 60012175
+
+ test_proc_image-24232   [004] d..4. 11906.669890: bpf_trace_printk: 24229 delay 60011223
+
+ test_proc_image-24229   [004] d..4. 11906.673912: bpf_trace_printk: 24235 delay 59983826
+
+ test_proc_image-24235   [004] d..4. 11906.677891: bpf_trace_printk: 24236 delay 60025735
+
+ test_proc_image-24236   [004] d..4. 11906.681908: bpf_trace_printk: 24234 delay 60010005
+
+ test_proc_image-24234   [004] d..4. 11906.685891: bpf_trace_printk: 24238 delay 60029644
+
+ test_proc_image-24238   [004] d..4. 11906.689910: bpf_trace_printk: 24231 delay 59999712
+
+ test_proc_image-24231   [004] d..4. 11906.693895: bpf_trace_printk: 24240 delay 60028836
+
+ test_proc_image-24240   [004] d..4. 11906.697918: bpf_trace_printk: 24237 delay 60022965
+
+ test_proc_image-24237   [004] d..4. 11906.701903: bpf_trace_printk: 24242 delay 60025590
+
+ test_proc_image-24242   [004] d..4. 11906.705931: bpf_trace_printk: 24241 delay 56040761
+
+ test_proc_image-24241   [004] d..4. 11906.709898: bpf_trace_printk: 24239 delay 64007795
+
+ test_proc_image-24239   [004] d..4. 11906.713906: bpf_trace_printk: 24230 delay 60018768
+
+ test_proc_image-24230   [004] d..4. 11906.717896: bpf_trace_printk: 24233 delay 59999189
+
+ test_proc_image-24233   [004] d..4. 11906.721924: bpf_trace_printk: 24244 delay 60017134
+
+ test_proc_image-24244   [004] d..4. 11906.725932: bpf_trace_printk: 24243 delay 60018757
+
+ test_proc_image-24243   [004] d..4. 11906.729919: bpf_trace_printk: 24232 delay 60027554
+
+ test_proc_image-24232   [004] d..4. 11906.733847: bpf_trace_printk: 24229 delay 59940178
+
+ test_proc_image-24229   [004] d..4. 11906.737919: bpf_trace_printk: 24235 delay 60026182
+
+ test_proc_image-24235   [004] d..4. 11906.741904: bpf_trace_printk: 24236 delay 59998188
+
+ test_proc_image-24236   [004] d..4. 11906.745907: bpf_trace_printk: 24234 delay 60016372
+
+ test_proc_image-24234   [004] d..4. 11906.749965: bpf_trace_printk: 24238 delay 60032044
+
+ test_proc_image-24238   [004] d..4. 11906.753910: bpf_trace_printk: 24231 delay 60015486
+
+ test_proc_image-24231   [004] d..4. 11906.757910: bpf_trace_printk: 24240 delay 59994356
+
+ test_proc_image-24240   [004] d..4. 11906.761894: bpf_trace_printk: 24237 delay 59990979
+
+ test_proc_image-24237   [004] d..4. 11906.765919: bpf_trace_printk: 24242 delay 59992648
+
+ test_proc_image-24242   [004] d..4. 11906.769905: bpf_trace_printk: 24241 delay 60008920
+
+ test_proc_image-24241   [004] d..4. 11906.773888: bpf_trace_printk: 24239 delay 59981547
+
+ test_proc_image-24239   [004] d..4. 11906.777907: bpf_trace_printk: 24230 delay 60011436
+
+ test_proc_image-24230   [004] d..4. 11906.781936: bpf_trace_printk: 24233 delay 60011873
+
+ test_proc_image-24233   [004] d..4. 11906.785921: bpf_trace_printk: 24244 delay 59990965
+
+ test_proc_image-24244   [004] d..4. 11906.789935: bpf_trace_printk: 24232 delay 56085485
+
+ test_proc_image-24232   [004] d..4. 11906.793905: bpf_trace_printk: 24243 delay 63990532
+
+ test_proc_image-24243   [004] d..4. 11906.797935: bpf_trace_printk: 24229 delay 60018186
+
+ test_proc_image-24229   [004] d..4. 11906.801906: bpf_trace_printk: 24235 delay 60005573
+
+ test_proc_image-24235   [004] d..4. 11906.805927: bpf_trace_printk: 24236 delay 60019799
+
+ test_proc_image-24236   [004] d..4. 11906.809907: bpf_trace_printk: 24234 delay 59970824
+
+ test_proc_image-24234   [004] d..4. 11906.813941: bpf_trace_printk: 24238 delay 60029673
+
+ test_proc_image-24238   [004] d..4. 11906.817928: bpf_trace_printk: 24231 delay 60020495
+
+ test_proc_image-24231   [004] d..4. 11906.821931: bpf_trace_printk: 24240 delay 60036637
+
+ test_proc_image-24240   [004] d..4. 11906.825917: bpf_trace_printk: 24237 delay 60001493
+
+ test_proc_image-24237   [004] d..4. 11906.829952: bpf_trace_printk: 24242 delay 60044284
+
+ test_proc_image-24242   [004] d..4. 11906.833929: bpf_trace_printk: 24241 delay 60044946
+
+ test_proc_image-24241   [004] d..4. 11906.837920: bpf_trace_printk: 24239 delay 60013826
+
+ test_proc_image-24239   [004] d..4. 11906.841925: bpf_trace_printk: 24230 delay 59995384
+
+ test_proc_image-24230   [004] d..4. 11906.845950: bpf_trace_printk: 24233 delay 60015752
+
+ test_proc_image-24233   [004] d..4. 11906.849860: bpf_trace_printk: 24244 delay 59929788
+
+ test_proc_image-24244   [004] d..4. 11906.853926: bpf_trace_printk: 24232 delay 60021332
+
+ test_proc_image-24232   [004] d..4. 11906.857856: bpf_trace_printk: 24243 delay 59924588
+
+ test_proc_image-24243   [004] d..4. 11906.861930: bpf_trace_printk: 24229 delay 60022614
+
+ test_proc_image-24229   [004] d..4. 11906.865939: bpf_trace_printk: 24235 delay 60012616
+
+ test_proc_image-24235   [004] d..4. 11906.869911: bpf_trace_printk: 24236 delay 60004199
+
+ test_proc_image-24236   [004] d..4. 11906.873934: bpf_trace_printk: 24234 delay 59995804
+
+ test_proc_image-24234   [004] d..4. 11906.877908: bpf_trace_printk: 24238 delay 59983340
+
+ test_proc_image-24238   [004] d..4. 11906.881938: bpf_trace_printk: 24231 delay 60007726
+
+ test_proc_image-24231   [004] d..4. 11906.885923: bpf_trace_printk: 24240 delay 60008058
+
+ test_proc_image-24240   [004] d..4. 11906.889964: bpf_trace_printk: 24237 delay 60012907
+
+ test_proc_image-24237   [004] d..4. 11906.893924: bpf_trace_printk: 24242 delay 59998829
+
+ test_proc_image-24242   [004] d..4. 11906.897945: bpf_trace_printk: 24241 delay 60024678
+
+ test_proc_image-24241   [004] d..4. 11906.901924: bpf_trace_printk: 24239 delay 60001484
+
+ test_proc_image-24239   [004] d..4. 11906.906004: bpf_trace_printk: 24230 delay 60061668
+
+ test_proc_image-24230   [004] d..4. 11906.909922: bpf_trace_printk: 24233 delay 60062561
+
+ test_proc_image-24233   [004] d..4. 11906.914010: bpf_trace_printk: 24244 delay 60078091
+
+ test_proc_image-24244   [004] d..4. 11906.917917: bpf_trace_printk: 24232 delay 60063344
+
+ test_proc_image-24232   [004] d..4. 11906.921968: bpf_trace_printk: 24243 delay 60038646
+
+ test_proc_image-24243   [004] d..4. 11906.925926: bpf_trace_printk: 24229 delay 59991896
+
+ test_proc_image-24229   [004] d..4. 11906.929943: bpf_trace_printk: 24235 delay 60031297
+
+ test_proc_image-24235   [004] d..4. 11906.933929: bpf_trace_printk: 24236 delay 59999897
+
+ test_proc_image-24236   [004] d..4. 11906.937962: bpf_trace_printk: 24234 delay 60048278
+
+ test_proc_image-24234   [004] d..4. 11906.941918: bpf_trace_printk: 24238 delay 59985208
+
+ test_proc_image-24238   [004] d..4. 11906.945958: bpf_trace_printk: 24231 delay 60033059
+
+ test_proc_image-24231   [004] d..4. 11906.949940: bpf_trace_printk: 24240 delay 59981461
+
+ test_proc_image-24240   [004] d..4. 11906.953932: bpf_trace_printk: 24237 delay 60006073
+
+ test_proc_image-24237   [004] d..4. 11906.957866: bpf_trace_printk: 24242 delay 59923506
+
+ test_proc_image-24242   [004] d..4. 11906.961939: bpf_trace_printk: 24241 delay 60015371
+
+ test_proc_image-24241   [004] d..4. 11906.965982: bpf_trace_printk: 24230 delay 56058233
+
+ test_proc_image-24230   [004] d..4. 11906.969945: bpf_trace_printk: 24239 delay 63949935
+
+ test_proc_image-24239   [004] d..4. 11906.973957: bpf_trace_printk: 24233 delay 59953643
+
+ test_proc_image-24233   [004] d..4. 11906.977938: bpf_trace_printk: 24244 delay 60022984
+
+ test_proc_image-24244   [004] d..4. 11906.981966: bpf_trace_printk: 24232 delay 59998467
+
+ test_proc_image-24232   [004] d..4. 11906.985953: bpf_trace_printk: 24243 delay 60028768
+
+ test_proc_image-24243   [004] d..4. 11906.989957: bpf_trace_printk: 24229 delay 60016629
+
+ test_proc_image-24229   [004] d..4. 11906.993964: bpf_trace_printk: 24235 delay 60036266
+
+ test_proc_image-24235   [004] d..4. 11906.998010: bpf_trace_printk: 24236 delay 60047068
+
+ test_proc_image-24236   [004] d..4. 11907.001948: bpf_trace_printk: 24234 delay 60030444
+
+ test_proc_image-24234   [004] d..4. 11907.006022: bpf_trace_printk: 24238 delay 60063176
+
+ test_proc_image-24238   [004] d..4. 11907.009965: bpf_trace_printk: 24231 delay 60028200
+
+ test_proc_image-24231   [004] d..4. 11907.013990: bpf_trace_printk: 24240 delay 60056720
+
+ test_proc_image-24240   [004] d..4. 11907.017936: bpf_trace_printk: 24237 delay 60073492
+
+ test_proc_image-24237   [004] d..4. 11907.021971: bpf_trace_printk: 24242 delay 60031071
+
+ test_proc_image-24242   [004] d..4. 11907.025969: bpf_trace_printk: 24241 delay 59992397
+
+ test_proc_image-24241   [004] d..4. 11907.029993: bpf_trace_printk: 24230 delay 60045749
+
+ test_proc_image-24230   [004] d..4. 11907.033956: bpf_trace_printk: 24239 delay 60003157
+
+ test_proc_image-24239   [004] d..4. 11907.037976: bpf_trace_printk: 24233 delay 60036841
+
+ test_proc_image-24233   [004] d..4. 11907.041961: bpf_trace_printk: 24244 delay 59988240
+
+ test_proc_image-24244   [004] d..4. 11907.045992: bpf_trace_printk: 24232 delay 60038292
+
+ test_proc_image-24232   [004] d..4. 11907.049967: bpf_trace_printk: 24243 delay 60012264
+
+ test_proc_image-24243   [004] d..4. 11907.053969: bpf_trace_printk: 24229 delay 60005420
+
+ test_proc_image-24229   [004] d..4. 11907.057955: bpf_trace_printk: 24235 delay 59953822
+
+ test_proc_image-24235   [004] d..4. 11907.061968: bpf_trace_printk: 24236 delay 60019760
+
+ test_proc_image-24236   [004] d..4. 11907.065953: bpf_trace_printk: 24234 delay 59936391
+
+ test_proc_image-24234   [004] d..4. 11907.069987: bpf_trace_printk: 24238 delay 60022233
+
+ test_proc_image-24238   [004] d..4. 11907.073968: bpf_trace_printk: 24231 delay 59981696
+
+ test_proc_image-24231   [004] d..4. 11907.077836: bpf_trace_printk: 24240 delay 59901805
+
+ test_proc_image-24240   [004] d..4. 11907.081963: bpf_trace_printk: 24237 delay 59994390
+
+ test_proc_image-24237   [004] d..4. 11907.085971: bpf_trace_printk: 24242 delay 60005272
+
+ test_proc_image-24242   [004] d..4. 11907.090002: bpf_trace_printk: 24230 delay 56040940
+
+ test_proc_image-24230   [004] d..4. 11907.093958: bpf_trace_printk: 24241 delay 63971546
+
+ test_proc_image-24241   [004] d..4. 11907.097971: bpf_trace_printk: 24239 delay 59997036
+
+ test_proc_image-24239   [004] d..4. 11907.101958: bpf_trace_printk: 24233 delay 60011483
+
+ test_proc_image-24233   [004] d..4. 11907.105986: bpf_trace_printk: 24244 delay 59994973
+
+ test_proc_image-24244   [004] d..4. 11907.109958: bpf_trace_printk: 24232 delay 59994521
+
+ test_proc_image-24232   [004] d..4. 11907.113977: bpf_trace_printk: 24243 delay 60007807
+
+ test_proc_image-24243   [004] d..4. 11907.117960: bpf_trace_printk: 24229 delay 60009189
+
+ test_proc_image-24229   [004] d..4. 11907.121988: bpf_trace_printk: 24235 delay 60020099
+
+ test_proc_image-24235   [004] d..4. 11907.125966: bpf_trace_printk: 24236 delay 60016012
+
+ test_proc_image-24236   [004] d..4. 11907.129983: bpf_trace_printk: 24234 delay 59994472
+
+ test_proc_image-24234   [004] d..4. 11907.133968: bpf_trace_printk: 24238 delay 60004099
+
+ test_proc_image-24238   [004] d..4. 11907.137984: bpf_trace_printk: 24231 delay 60144856
+
+ test_proc_image-24231   [004] d..4. 11907.141967: bpf_trace_printk: 24240 delay 60007787
+
+ test_proc_image-24240   [004] d..4. 11907.145993: bpf_trace_printk: 24237 delay 60021633
+
+ test_proc_image-24237   [004] d..4. 11907.149975: bpf_trace_printk: 24242 delay 59981437
+
+ test_proc_image-24242   [004] d..4. 11907.153994: bpf_trace_printk: 24230 delay 60035690
+
+ test_proc_image-24230   [004] d..4. 11907.157970: bpf_trace_printk: 24241 delay 60002736
+
+ test_proc_image-24241   [004] d..4. 11907.161974: bpf_trace_printk: 24239 delay 60017605
+
+ test_proc_image-24239   [004] d..4. 11907.165976: bpf_trace_printk: 24233 delay 59992517
+
+ test_proc_image-24233   [004] d..4. 11907.169973: bpf_trace_printk: 24244 delay 60015080
+
+ test_proc_image-24244   [004] d..4. 11907.173986: bpf_trace_printk: 24232 delay 60011063
+
+ test_proc_image-24232   [004] d..4. 11907.177971: bpf_trace_printk: 24243 delay 60012205
+
+ test_proc_image-24243   [004] d..4. 11907.181997: bpf_trace_printk: 24229 delay 60011123
+
+ test_proc_image-24229   [004] d..4. 11907.185965: bpf_trace_printk: 24235 delay 60000422
+
+ test_proc_image-24235   [004] d..4. 11907.189994: bpf_trace_printk: 24236 delay 60012906
+
+ test_proc_image-24236   [004] d..4. 11907.193974: bpf_trace_printk: 24234 delay 60008489
+
+ test_proc_image-24234   [004] d..4. 11907.197996: bpf_trace_printk: 24238 delay 60014781
+
+ test_proc_image-24238   [004] d..4. 11907.201980: bpf_trace_printk: 24231 delay 60015190
+
+ test_proc_image-24231   [004] d..4. 11907.206011: bpf_trace_printk: 24240 delay 60018206
+
+ test_proc_image-24240   [004] d..4. 11907.209969: bpf_trace_printk: 24237 delay 59996635
+
+ test_proc_image-24237   [004] d..4. 11907.214001: bpf_trace_printk: 24242 delay 60004239
+
+ test_proc_image-24242   [004] d..4. 11907.217847: bpf_trace_printk: 24230 delay 59878682
+
+ test_proc_image-24230   [004] d..4. 11907.221987: bpf_trace_printk: 24241 delay 60013247
+
+ test_proc_image-24241   [004] d..4. 11907.225979: bpf_trace_printk: 24239 delay 60008147
+
+ test_proc_image-24239   [004] d..4. 11907.229981: bpf_trace_printk: 24233 delay 60011023
+
+ test_proc_image-24233   [004] d..4. 11907.233983: bpf_trace_printk: 24244 delay 60001574
+
+ test_proc_image-24244   [004] d..4. 11907.237982: bpf_trace_printk: 24232 delay 60012896
+
+ test_proc_image-24232   [004] d..4. 11907.241980: bpf_trace_printk: 24243 delay 59989252
+
+ test_proc_image-24243   [004] d..4. 11907.245984: bpf_trace_printk: 24229 delay 60021172
+
+ test_proc_image-24229   [004] d..4. 11907.249983: bpf_trace_printk: 24235 delay 59994060
+
+ test_proc_image-24235   [004] d..4. 11907.253985: bpf_trace_printk: 24236 delay 60012244
+
+ test_proc_image-24236   [004] d..4. 11907.257987: bpf_trace_printk: 24234 delay 59995983
+
+ test_proc_image-24234   [004] d..4. 11907.261984: bpf_trace_printk: 24238 delay 60003128
+
+ test_proc_image-24238   [004] d..4. 11907.266001: bpf_trace_printk: 24231 delay 59994451
+
+ test_proc_image-24231   [004] d..4. 11907.269978: bpf_trace_printk: 24240 delay 60010231
+
+ test_proc_image-24240   [004] d..4. 11907.273988: bpf_trace_printk: 24237 delay 59995032
+
+ test_proc_image-24237   [004] d..4. 11907.277979: bpf_trace_printk: 24242 delay 60132814
+
+ test_proc_image-24242   [004] d..4. 11907.282000: bpf_trace_printk: 24241 delay 56020812
+
+ test_proc_image-24241   [004] d..4. 11907.285997: bpf_trace_printk: 24230 delay 64013066
+
+ test_proc_image-24230   [004] d..4. 11907.289996: bpf_trace_printk: 24239 delay 60016562
+
+ test_proc_image-24239   [004] d..4. 11907.294006: bpf_trace_printk: 24233 delay 60023085
+
+ test_proc_image-24233   [004] d..4. 11907.297992: bpf_trace_printk: 24244 delay 60010922
+
+ test_proc_image-24244   [004] d..4. 11907.302018: bpf_trace_printk: 24232 delay 60039716
+
+ test_proc_image-24232   [004] d..4. 11907.306003: bpf_trace_printk: 24243 delay 60021433
+
+ test_proc_image-24243   [004] d..4. 11907.310005: bpf_trace_printk: 24229 delay 60024168
+
+ test_proc_image-24229   [004] d..4. 11907.313996: bpf_trace_printk: 24235 delay 60012125
+
+ test_proc_image-24235   [004] d..4. 11907.317997: bpf_trace_printk: 24236 delay 60011854
+
+ test_proc_image-24236   [004] d..4. 11907.321995: bpf_trace_printk: 24234 delay 60015250
+
+ test_proc_image-24234   [004] d..4. 11907.325856: bpf_trace_printk: 24238 delay 59855998
+
+ test_proc_image-24238   [004] d..4. 11907.329997: bpf_trace_printk: 24231 delay 60020581
+
+ test_proc_image-24231   [004] d..4. 11907.333996: bpf_trace_printk: 24240 delay 60010181
+
+ test_proc_image-24240   [004] d..4. 11907.337997: bpf_trace_printk: 24237 delay 60020670
+
+ test_proc_image-24237   [004] d..4. 11907.341999: bpf_trace_printk: 24242 delay 60001675
+
+ test_proc_image-24242   [004] d..4. 11907.345998: bpf_trace_printk: 24241 delay 60003027
+
+ test_proc_image-24241   [004] d..4. 11907.349999: bpf_trace_printk: 24230 delay 60005293
+
+ test_proc_image-24230   [004] d..4. 11907.354000: bpf_trace_printk: 24239 delay 59996506
+
+ test_proc_image-24239   [004] d..4. 11907.358013: bpf_trace_printk: 24233 delay 60022495
+
+ test_proc_image-24233   [004] d..4. 11907.362002: bpf_trace_printk: 24244 delay 59985003
+
+ test_proc_image-24244   [004] d..4. 11907.366003: bpf_trace_printk: 24232 delay 60001454
+
+ test_proc_image-24232   [004] d..4. 11907.370014: bpf_trace_printk: 24243 delay 60010071
+
+ test_proc_image-24243   [004] d..4. 11907.374002: bpf_trace_printk: 24229 delay 60008728
+
+ test_proc_image-24229   [004] d..4. 11907.378005: bpf_trace_printk: 24235 delay 60009459
+
+ test_proc_image-24235   [004] d..4. 11907.382007: bpf_trace_printk: 24236 delay 60013507
+
+ test_proc_image-24236   [004] d..4. 11907.386022: bpf_trace_printk: 24234 delay 60167279
+
+ test_proc_image-24234   [004] d..4. 11907.390000: bpf_trace_printk: 24238 delay 60004780
+
+ test_proc_image-24238   [004] d..4. 11907.393950: bpf_trace_printk: 24231 delay 59955217
+
+ test_proc_image-24231   [004] d..4. 11907.398000: bpf_trace_printk: 24240 delay 60004100
+
+ test_proc_image-24240   [004] d..4. 11907.402024: bpf_trace_printk: 24237 delay 60024428
+
+ test_proc_image-24237   [004] d..4. 11907.406015: bpf_trace_printk: 24242 delay 60018176
+
+ test_proc_image-24242   [004] d..4. 11907.410011: bpf_trace_printk: 24241 delay 60012725
+
+ test_proc_image-24241   [004] d..4. 11907.414015: bpf_trace_printk: 24230 delay 60015601
+
+ test_proc_image-24230   [004] d..4. 11907.418013: bpf_trace_printk: 24239 delay 60001725
+
+ test_proc_image-24239   [004] d..4. 11907.422016: bpf_trace_printk: 24233 delay 60015521
+
+ test_proc_image-24233   [004] d..4. 11907.426013: bpf_trace_printk: 24244 delay 60011493
+
+ test_proc_image-24244   [004] d..4. 11907.430015: bpf_trace_printk: 24232 delay 60003197
+
+ test_proc_image-24232   [004] d..4. 11907.434021: bpf_trace_printk: 24243 delay 60019118
+
+ test_proc_image-24243   [004] d..4. 11907.438015: bpf_trace_printk: 24229 delay 60011745
+
+ test_proc_image-24229   [004] d..4. 11907.442006: bpf_trace_printk: 24235 delay 59999562
+
+ test_proc_image-24235   [004] d..4. 11907.446051: bpf_trace_printk: 24236 delay 60030950
+
+ test_proc_image-24236   [004] d..4. 11907.450021: bpf_trace_printk: 24234 delay 60022094
+
+ test_proc_image-24234   [004] d..4. 11907.454013: bpf_trace_printk: 24238 delay 60063442
+
+ test_proc_image-24238   [004] d..4. 11907.458021: bpf_trace_printk: 24231 delay 60022244
+
+ test_proc_image-24231   [004] d..4. 11907.462023: bpf_trace_printk: 24240 delay 60001906
+
+ test_proc_image-24240   [004] d..4. 11907.466021: bpf_trace_printk: 24237 delay 60007305
+
+ test_proc_image-24237   [004] d..4. 11907.470022: bpf_trace_printk: 24242 delay 60013026
+
+ test_proc_image-24242   [004] d..4. 11907.474023: bpf_trace_printk: 24241 delay 60010962
+
+ test_proc_image-24241   [004] d..4. 11907.478045: bpf_trace_printk: 24230 delay 60031130
+
+ test_proc_image-24230   [004] d..4. 11907.482025: bpf_trace_printk: 24239 delay 60010863
+
+ test_proc_image-24239   [004] d..4. 11907.486014: bpf_trace_printk: 24233 delay 60002066
+
+ test_proc_image-24233   [004] d..4. 11907.490016: bpf_trace_printk: 24244 delay 60002135
+
+ test_proc_image-24244   [004] d..4. 11907.494028: bpf_trace_printk: 24232 delay 60009219
+
+ test_proc_image-24232   [004] d..4. 11907.498027: bpf_trace_printk: 24243 delay 60013096
+
+ test_proc_image-24243   [004] d..4. 11907.502037: bpf_trace_printk: 24229 delay 60032603
+
+ test_proc_image-24229   [004] d..4. 11907.505834: bpf_trace_printk: 24236 delay 55814280
+
+ test_proc_image-24236   [004] d..4. 11907.510031: bpf_trace_printk: 24235 delay 63982347
+
+ test_proc_image-24235   [004] d..4. 11907.514032: bpf_trace_printk: 24234 delay 60021752
+
+ test_proc_image-24234   [004] d..4. 11907.518032: bpf_trace_printk: 24238 delay 60012665
+
+ test_proc_image-24238   [004] d..4. 11907.522029: bpf_trace_printk: 24231 delay 60008647
+
+ test_proc_image-24231   [004] d..4. 11907.526032: bpf_trace_printk: 24240 delay 60012355
+
+ test_proc_image-24240   [004] d..4. 11907.530020: bpf_trace_printk: 24237 delay 59999141
+
+ test_proc_image-24237   [004] d..4. 11907.534035: bpf_trace_printk: 24242 delay 60013066
+
+ test_proc_image-24242   [004] d..4. 11907.538036: bpf_trace_printk: 24241 delay 59994752
+
+ test_proc_image-24241   [004] d..4. 11907.542037: bpf_trace_printk: 24230 delay 60012385
+
+ test_proc_image-24230   [004] d..4. 11907.546047: bpf_trace_printk: 24239 delay 60034477
+
+ test_proc_image-24239   [004] d..4. 11907.550049: bpf_trace_printk: 24233 delay 60023828
+
+ test_proc_image-24233   [004] d..4. 11907.554038: bpf_trace_printk: 24244 delay 60011313
+
+ test_proc_image-24244   [004] d..4. 11907.558036: bpf_trace_printk: 24232 delay 60011594
+
+ test_proc_image-24232   [004] d..4. 11907.562036: bpf_trace_printk: 24229 delay 56204481
+
+ test_proc_image-24229   [004] d..4. 11907.566051: bpf_trace_printk: 24243 delay 64016381
+
+ test_proc_image-24243   [004] d..4. 11907.570043: bpf_trace_printk: 24235 delay 56012087
+
+ test_proc_image-24235   [004] d..4. 11907.574040: bpf_trace_printk: 24234 delay 56009702
+
+ test_proc_image-24234   [004] d..4. 11907.577828: bpf_trace_printk: 24236 delay 67798157
+
+ test_proc_image-24236   [004] d..4. 11907.582044: bpf_trace_printk: 24238 delay 60016464
+
+ test_proc_image-24238   [004] d..4. 11907.586043: bpf_trace_printk: 24231 delay 60012897
+
+ test_proc_image-24231   [004] d..4. 11907.590042: bpf_trace_printk: 24240 delay 60023436
+
+ test_proc_image-24240   [004] d..4. 11907.594042: bpf_trace_printk: 24237 delay 60008750
+
+ test_proc_image-24237   [004] d..4. 11907.598042: bpf_trace_printk: 24242 delay 60007737
+
+ test_proc_image-24242   [004] d..4. 11907.602055: bpf_trace_printk: 24241 delay 60019739
+
+ test_proc_image-24241   [004] d..4. 11907.606044: bpf_trace_printk: 24230 delay 59999000
+
+ test_proc_image-24230   [004] d..4. 11907.610045: bpf_trace_printk: 24239 delay 60009029
+
+ test_proc_image-24239   [004] d..4. 11907.614046: bpf_trace_printk: 24233 delay 60010422
+
+ test_proc_image-24233   [004] d..4. 11907.618048: bpf_trace_printk: 24244 delay 60012686
+
+ test_proc_image-24244   [004] d..4. 11907.622047: bpf_trace_printk: 24232 delay 60012196
+
+ test_proc_image-24232   [004] d..4. 11907.626057: bpf_trace_printk: 24229 delay 60007648
+
+ test_proc_image-24229   [004] d..4. 11907.630053: bpf_trace_printk: 24243 delay 60011154
+
+ test_proc_image-24243   [004] d..4. 11907.634050: bpf_trace_printk: 24234 delay 56223838
+
+ test_proc_image-24234   [004] d..4. 11907.638050: bpf_trace_printk: 24235 delay 64011032
+
+ test_proc_image-24235   [004] d..4. 11907.642059: bpf_trace_printk: 24236 delay 60016293
+
+ test_proc_image-24236   [004] d..4. 11907.646049: bpf_trace_printk: 24238 delay 60007176
+
+ test_proc_image-24238   [004] d..4. 11907.650054: bpf_trace_printk: 24231 delay 60013107
+
+ test_proc_image-24231   [004] d..4. 11907.654054: bpf_trace_printk: 24240 delay 60013257
+
+ test_proc_image-24240   [004] d..4. 11907.658054: bpf_trace_printk: 24237 delay 60013007
+
+ test_proc_image-24237   [004] d..4. 11907.662075: bpf_trace_printk: 24242 delay 60022095
+
+ test_proc_image-24242   [004] d..4. 11907.666057: bpf_trace_printk: 24241 delay 60013509
+
+ test_proc_image-24241   [004] d..4. 11907.669927: bpf_trace_printk: 24230 delay 59882629
+
+ test_proc_image-24230   [004] d..4. 11907.674067: bpf_trace_printk: 24239 delay 60022726
+
+ test_proc_image-24239   [004] d..4. 11907.678059: bpf_trace_printk: 24233 delay 60011985
+
+ test_proc_image-24233   [004] d..4. 11907.682058: bpf_trace_printk: 24244 delay 60011830
+
+ test_proc_image-24244   [004] d..4. 11907.686070: bpf_trace_printk: 24232 delay 60014625
+
+ test_proc_image-24232   [004] d..4. 11907.690056: bpf_trace_printk: 24229 delay 60005608
+
+ test_proc_image-24229   [004] d..4. 11907.694062: bpf_trace_printk: 24243 delay 60012963
+
+ test_proc_image-24243   [004] d..4. 11907.698067: bpf_trace_printk: 24234 delay 60019636
+
+ test_proc_image-24234   [004] d..4. 11907.702056: bpf_trace_printk: 24235 delay 59999126
+
+ test_proc_image-24235   [004] d..4. 11907.706058: bpf_trace_printk: 24236 delay 60011319
+
+ test_proc_image-24236   [004] d..4. 11907.710064: bpf_trace_printk: 24238 delay 60011144
+
+ test_proc_image-24238   [004] d..4. 11907.714062: bpf_trace_printk: 24231 delay 60010071
+
+ test_proc_image-24231   [004] d..4. 11907.718065: bpf_trace_printk: 24240 delay 60013238
+
+ test_proc_image-24240   [004] d..4. 11907.722064: bpf_trace_printk: 24237 delay 59991085
+
+ test_proc_image-24237   [004] d..4. 11907.726065: bpf_trace_printk: 24242 delay 60010712
+
+ test_proc_image-24242   [004] d..4. 11907.729842: bpf_trace_printk: 24241 delay 59917016
+
+ test_proc_image-24241   [004] d..4. 11907.734069: bpf_trace_printk: 24239 delay 56011947
+
+ test_proc_image-24239   [004] d..4. 11907.738070: bpf_trace_printk: 24230 delay 64003979
+
+ test_proc_image-24230   [004] d..4. 11907.742074: bpf_trace_printk: 24233 delay 60017730
+
+ test_proc_image-24233   [004] d..4. 11907.746081: bpf_trace_printk: 24244 delay 60012220
+
+ test_proc_image-24244   [004] d..4. 11907.750079: bpf_trace_printk: 24232 delay 60023832
+
+ test_proc_image-24232   [004] d..4. 11907.754075: bpf_trace_printk: 24229 delay 60014795
+
+ test_proc_image-24229   [004] d..4. 11907.758080: bpf_trace_printk: 24243 delay 60012600
+
+ test_proc_image-24243   [004] d..4. 11907.762077: bpf_trace_printk: 24234 delay 60019664
+
+ test_proc_image-24234   [004] d..4. 11907.766072: bpf_trace_printk: 24235 delay 60014745
+
+ test_proc_image-24235   [004] d..4. 11907.770069: bpf_trace_printk: 24236 delay 60006916
+
+ test_proc_image-24236   [004] d..4. 11907.774083: bpf_trace_printk: 24238 delay 60020041
+
+ test_proc_image-24238   [004] d..4. 11907.778073: bpf_trace_printk: 24231 delay 60009059
+
+ test_proc_image-24231   [004] d..4. 11907.782064: bpf_trace_printk: 24240 delay 60001405
+
+ test_proc_image-24240   [004] d..4. 11907.786064: bpf_trace_printk: 24242 delay 56223437
+
+ test_proc_image-24242   [004] d..4. 11907.790079: bpf_trace_printk: 24237 delay 64014910
+
+ test_proc_image-24237   [004] d..4. 11907.794081: bpf_trace_printk: 24241 delay 60012907
+
+ test_proc_image-24241   [004] d..4. 11907.798083: bpf_trace_printk: 24239 delay 60014540
+
+ test_proc_image-24239   [004] d..4. 11907.801960: bpf_trace_printk: 24230 delay 59887700
+
+ test_proc_image-24230   [004] d..4. 11907.805857: bpf_trace_printk: 24233 delay 59776341
+
+ test_proc_image-24233   [004] d..4. 11907.810083: bpf_trace_printk: 24244 delay 60004895
+
+ test_proc_image-24244   [004] d..4. 11907.813958: bpf_trace_printk: 24232 delay 59882182
+
+ test_proc_image-24232   [004] d..4. 11907.818104: bpf_trace_printk: 24229 delay 60023833
+
+ test_proc_image-24229   [004] d..4. 11907.822095: bpf_trace_printk: 24243 delay 60019264
+
+ test_proc_image-24243   [004] d..4. 11907.825826: bpf_trace_printk: 24234 delay 59754551
+
+ test_proc_image-24234   [004] d..4. 11907.830110: bpf_trace_printk: 24235 delay 60040494
+
+ test_proc_image-24235   [004] d..4. 11907.834094: bpf_trace_printk: 24236 delay 60013660
+
+ test_proc_image-24236   [004] d..4. 11907.837970: bpf_trace_printk: 24238 delay 59897991
+
+ test_proc_image-24238   [004] d..4. 11907.842079: bpf_trace_printk: 24231 delay 60015474
+
+ test_proc_image-24231   [004] d..4. 11907.846093: bpf_trace_printk: 24240 delay 60029401
+
+ test_proc_image-24240   [004] d..4. 11907.850098: bpf_trace_printk: 24242 delay 60019350
+
+ test_proc_image-24242   [004] d..4. 11907.854085: bpf_trace_printk: 24237 delay 60006736
+
+ test_proc_image-24237   [004] d..4. 11907.858091: bpf_trace_printk: 24239 delay 56132386
+
+ test_proc_image-24239   [004] d..4. 11907.862083: bpf_trace_printk: 24230 delay 56229167
+
+ test_proc_image-24230   [004] d..4. 11907.866098: bpf_trace_printk: 24241 delay 68015330
+
+ test_proc_image-24241   [004] d..4. 11907.870087: bpf_trace_printk: 24244 delay 56133445
+
+ test_proc_image-24244   [004] d..4. 11907.874092: bpf_trace_printk: 24233 delay 64011251
+
+ test_proc_image-24233   [004] d..4. 11907.878093: bpf_trace_printk: 24243 delay 52269183
+
+ test_proc_image-24243   [004] d..4. 11907.882095: bpf_trace_printk: 24229 delay 60003426
+
+ test_proc_image-24229   [004] d..4. 11907.886094: bpf_trace_printk: 24232 delay 67995027
+
+ test_proc_image-24232   [004] d..4. 11907.890101: bpf_trace_printk: 24235 delay 56009040
+
+ test_proc_image-24235   [004] d..4. 11907.894162: bpf_trace_printk: 24234 delay 63979508
+
+ test_proc_image-24234   [004] d..4. 11907.898095: bpf_trace_printk: 24236 delay 60124802
+
+ test_proc_image-24236   [004] d..4. 11907.902101: bpf_trace_printk: 24238 delay 60023641
+
+ test_proc_image-24238   [004] d..4. 11907.906102: bpf_trace_printk: 24231 delay 60010014
+
+ test_proc_image-24231   [004] d..4. 11907.910109: bpf_trace_printk: 24240 delay 60013026
+
+ test_proc_image-24240   [004] d..4. 11907.914095: bpf_trace_printk: 24242 delay 60011523
+
+ test_proc_image-24242   [004] d..4. 11907.918098: bpf_trace_printk: 24237 delay 60008408
+
+ test_proc_image-24237   [004] d..4. 11907.922098: bpf_trace_printk: 24239 delay 60015330
+
+ test_proc_image-24239   [004] d..4. 11907.926099: bpf_trace_printk: 24241 delay 56012646
+
+ test_proc_image-24241   [004] d..4. 11907.930102: bpf_trace_printk: 24230 delay 64006342
+
+ test_proc_image-24230   [004] d..4. 11907.934103: bpf_trace_printk: 24244 delay 60011783
+
+ test_proc_image-24244   [004] d..4. 11907.938087: bpf_trace_printk: 24233 delay 59996634
+
+ test_proc_image-24233   [004] d..4. 11907.942108: bpf_trace_printk: 24243 delay 60013867
+
+ test_proc_image-24243   [004] d..4. 11907.946095: bpf_trace_printk: 24229 delay 60001895
+
+ test_proc_image-24229   [004] d..4. 11907.950106: bpf_trace_printk: 24232 delay 60006684
+
+ test_proc_image-24232   [004] d..4. 11907.954108: bpf_trace_printk: 24235 delay 60023647
+
+ test_proc_image-24235   [004] d..4. 11907.958111: bpf_trace_printk: 24234 delay 60019304
+
+ test_proc_image-24234   [004] d..4. 11907.962112: bpf_trace_printk: 24236 delay 60012340
+
+ test_proc_image-24236   [004] d..4. 11907.966122: bpf_trace_printk: 24238 delay 60021999
+
+ test_proc_image-24238   [004] d..4. 11907.970124: bpf_trace_printk: 24231 delay 60017526
+
+ test_proc_image-24231   [004] d..4. 11907.974117: bpf_trace_printk: 24240 delay 60021253
+
+ test_proc_image-24240   [004] d..4. 11907.978113: bpf_trace_printk: 24242 delay 60016323
+
+ test_proc_image-24242   [004] d..4. 11907.982115: bpf_trace_printk: 24237 delay 60017746
+
+ test_proc_image-24237   [004] d..4. 11907.986125: bpf_trace_printk: 24239 delay 60026032
+
+ test_proc_image-24239   [004] d..4. 11907.990128: bpf_trace_printk: 24230 delay 56027145
+
+ test_proc_image-24230   [004] d..4. 11907.993829: bpf_trace_printk: 24241 delay 63730068
+
+ test_proc_image-24241   [004] d..4. 11907.998103: bpf_trace_printk: 24244 delay 60017165
+
+ test_proc_image-24244   [004] d..4. 11908.002116: bpf_trace_printk: 24233 delay 60010833
+
+ test_proc_image-24233   [004] d..4. 11908.006140: bpf_trace_printk: 24243 delay 60043755
+
+ test_proc_image-24243   [004] d..4. 11908.010071: bpf_trace_printk: 24229 delay 59966108
+
+ test_proc_image-24229   [004] d..4. 11908.014113: bpf_trace_printk: 24232 delay 60002917
+
+ test_proc_image-24232   [004] d..4. 11908.018124: bpf_trace_printk: 24235 delay 60014761
+
+ test_proc_image-24235   [004] d..4. 11908.022140: bpf_trace_printk: 24234 delay 60027686
+
+ test_proc_image-24234   [004] d..4. 11908.026128: bpf_trace_printk: 24236 delay 60007237
+
+ test_proc_image-24236   [004] d..4. 11908.030117: bpf_trace_printk: 24238 delay 59994762
+
+ test_proc_image-24238   [004] d..4. 11908.034121: bpf_trace_printk: 24231 delay 60006224
+
+ test_proc_image-24231   [004] d..4. 11908.038116: bpf_trace_printk: 24240 delay 60005402
+
+ test_proc_image-24240   [004] d..4. 11908.042118: bpf_trace_printk: 24242 delay 60005413
+
+ test_proc_image-24242   [004] d..4. 11908.046120: bpf_trace_printk: 24237 delay 59997568
+
+ test_proc_image-24237   [004] d..4. 11908.050132: bpf_trace_printk: 24230 delay 56301828
+
+ test_proc_image-24230   [004] d..4. 11908.054120: bpf_trace_printk: 24239 delay 63994501
+
+ test_proc_image-24239   [004] d..4. 11908.058130: bpf_trace_printk: 24241 delay 60027936
+
+ test_proc_image-24241   [004] d..4. 11908.062131: bpf_trace_printk: 24244 delay 60016073
+
+ test_proc_image-24244   [004] d..4. 11908.066132: bpf_trace_printk: 24233 delay 59995795
+
+ test_proc_image-24233   [004] d..4. 11908.070138: bpf_trace_printk: 24243 delay 60068172
+
+ test_proc_image-24243   [004] d..4. 11908.073964: bpf_trace_printk: 24229 delay 59856289
+
+ test_proc_image-24229   [004] d..4. 11908.077821: bpf_trace_printk: 24232 delay 59698670
+
+ test_proc_image-24232   [004] d..4. 11908.082134: bpf_trace_printk: 24235 delay 59996525
+
+ test_proc_image-24235   [004] d..4. 11908.086130: bpf_trace_printk: 24234 delay 60004571
+
+ test_proc_image-24234   [004] d..4. 11908.090122: bpf_trace_printk: 24236 delay 60005623
+
+ test_proc_image-24236   [004] d..4. 11908.094122: bpf_trace_printk: 24238 delay 60002337
+
+ test_proc_image-24238   [004] d..4. 11908.098124: bpf_trace_printk: 24231 delay 60007668
+
+ test_proc_image-24231   [004] d..4. 11908.102134: bpf_trace_printk: 24240 delay 60016985
+
+ test_proc_image-24240   [004] d..4. 11908.106133: bpf_trace_printk: 24242 delay 60014640
+
+ test_proc_image-24242   [004] d..4. 11908.110137: bpf_trace_printk: 24237 delay 60008338
+
+ test_proc_image-24237   [004] d..4. 11908.114138: bpf_trace_printk: 24230 delay 60017996
+
+ test_proc_image-24230   [004] d..4. 11908.118138: bpf_trace_printk: 24239 delay 60009671
+
+ test_proc_image-24239   [004] d..4. 11908.122071: bpf_trace_printk: 24243 delay 48108032
+
+ test_proc_image-24243   [004] d..4. 11908.126138: bpf_trace_printk: 24241 delay 64008668
+
+ test_proc_image-24241   [004] d..4. 11908.130140: bpf_trace_printk: 24244 delay 64009850
+
+ test_proc_image-24244   [004] d..4. 11908.134142: bpf_trace_printk: 24233 delay 64005953
+
+ test_proc_image-24233   [004] d..4. 11908.137825: bpf_trace_printk: 24229 delay 60005804
+
+ test_proc_image-24229   [004] d..4. 11908.141813: bpf_trace_printk: 24232 delay 59682309
+
+ test_proc_image-24232   [004] d..4. 11908.146161: bpf_trace_printk: 24235 delay 60032413
+
+ test_proc_image-24235   [004] d..4. 11908.150079: bpf_trace_printk: 24234 delay 59959395
+
+ test_proc_image-24234   [004] d..4. 11908.154143: bpf_trace_printk: 24236 delay 60023727
+
+ test_proc_image-24236   [004] d..4. 11908.158145: bpf_trace_printk: 24238 delay 60023588
+
+ test_proc_image-24238   [004] d..4. 11908.162158: bpf_trace_printk: 24231 delay 60022446
+
+ test_proc_image-24231   [004] d..4. 11908.166149: bpf_trace_printk: 24240 delay 60016415
+
+ test_proc_image-24240   [004] d..4. 11908.170154: bpf_trace_printk: 24242 delay 60015964
+
+ test_proc_image-24242   [004] d..4. 11908.174154: bpf_trace_printk: 24237 delay 60014681
+
+ test_proc_image-24237   [004] d..4. 11908.178144: bpf_trace_printk: 24230 delay 60006494
+
+ test_proc_image-24230   [004] d..4. 11908.182150: bpf_trace_printk: 24239 delay 60080064
+
+ test_proc_image-24239   [004] d..4. 11908.186148: bpf_trace_printk: 24233 delay 48323710
+
+ test_proc_image-24233   [004] d..4. 11908.190152: bpf_trace_printk: 24241 delay 60012516
+
+ test_proc_image-24241   [004] d..4. 11908.194151: bpf_trace_printk: 24244 delay 60009340
+
+ test_proc_image-24244   [004] d..4. 11908.198149: bpf_trace_printk: 24243 delay 72012422
+
+ test_proc_image-24243   [004] d..4. 11908.202154: bpf_trace_printk: 24229 delay 60341812
+
+ test_proc_image-24229   [004] d..4. 11908.206164: bpf_trace_printk: 24235 delay 56083212
+
+ test_proc_image-24235   [004] d..4. 11908.210155: bpf_trace_printk: 24232 delay 63994532
+
+ test_proc_image-24232   [004] d..4. 11908.213832: bpf_trace_printk: 24234 delay 59688601
+
+ test_proc_image-24234   [004] d..4. 11908.218161: bpf_trace_printk: 24236 delay 60016252
+
+ test_proc_image-24236   [004] d..4. 11908.222155: bpf_trace_printk: 24238 delay 60000151
+
+ test_proc_image-24238   [004] d..4. 11908.226149: bpf_trace_printk: 24231 delay 60000512
+
+ test_proc_image-24231   [004] d..4. 11908.230158: bpf_trace_printk: 24240 delay 60008146
+
+ test_proc_image-24240   [004] d..4. 11908.234159: bpf_trace_printk: 24242 delay 60009530
+
+ test_proc_image-24242   [004] d..4. 11908.238152: bpf_trace_printk: 24237 delay 60008254
+
+ test_proc_image-24237   [004] d..4. 11908.242165: bpf_trace_printk: 24230 delay 60016109
+
+ test_proc_image-24230   [004] d..4. 11908.246165: bpf_trace_printk: 24239 delay 60017962
+
+ test_proc_image-24239   [004] d..4. 11908.250176: bpf_trace_printk: 24233 delay 60024810
+
+ test_proc_image-24233   [004] d..4. 11908.254168: bpf_trace_printk: 24241 delay 60018759
+
+ test_proc_image-24241   [004] d..4. 11908.258154: bpf_trace_printk: 24244 delay 60005575
+
+ test_proc_image-24244   [004] d..4. 11908.262160: bpf_trace_printk: 24243 delay 60003400
+
+ test_proc_image-24243   [004] d..4. 11908.266165: bpf_trace_printk: 24229 delay 60001026
+
+ test_proc_image-24229   [004] d..4. 11908.270161: bpf_trace_printk: 24232 delay 56329021
+
+ test_proc_image-24232   [004] d..4. 11908.274169: bpf_trace_printk: 24235 delay 64013668
+
+ test_proc_image-24235   [004] d..4. 11908.278167: bpf_trace_printk: 24236 delay 56010674
+
+ test_proc_image-24236   [004] d..4. 11908.282166: bpf_trace_printk: 24234 delay 64005041
+
+ test_proc_image-24234   [004] d..4. 11908.286156: bpf_trace_printk: 24238 delay 60010041
+
+ test_proc_image-24238   [004] d..4. 11908.290170: bpf_trace_printk: 24231 delay 60012937
+
+ test_proc_image-24231   [004] d..4. 11908.294170: bpf_trace_printk: 24240 delay 60012186
+
+ test_proc_image-24240   [004] d..4. 11908.298170: bpf_trace_printk: 24242 delay 60021187
+
+ test_proc_image-24242   [004] d..4. 11908.302158: bpf_trace_printk: 24237 delay 59995538
+
+ test_proc_image-24237   [004] d..4. 11908.306170: bpf_trace_printk: 24230 delay 60007321
+
+ test_proc_image-24230   [004] d..4. 11908.310168: bpf_trace_printk: 24239 delay 59996004
+
+ test_proc_image-24239   [004] d..4. 11908.314181: bpf_trace_printk: 24233 delay 60013196
+
+ test_proc_image-24233   [004] d..4. 11908.317824: bpf_trace_printk: 24241 delay 59671326
+
+ test_proc_image-24241   [004] d..4. 11908.322173: bpf_trace_printk: 24244 delay 60017815
+
+ test_proc_image-24244   [004] d..4. 11908.326173: bpf_trace_printk: 24243 delay 60013576
+
+ test_proc_image-24243   [004] d..4. 11908.330175: bpf_trace_printk: 24229 delay 60018266
+
+ test_proc_image-24229   [004] d..4. 11908.333969: bpf_trace_printk: 24232 delay 59804110
+
+ test_proc_image-24232   [004] d..4. 11908.337948: bpf_trace_printk: 24235 delay 59786859
+
+ test_proc_image-24235   [004] d..4. 11908.342179: bpf_trace_printk: 24236 delay 60017086
+
+ test_proc_image-24236   [004] d..4. 11908.346198: bpf_trace_printk: 24234 delay 60042664
+
+ test_proc_image-24234   [004] d..4. 11908.350183: bpf_trace_printk: 24238 delay 60014170
+
+ test_proc_image-24238   [004] d..4. 11908.354183: bpf_trace_printk: 24231 delay 60012887
+
+ test_proc_image-24231   [004] d..4. 11908.358178: bpf_trace_printk: 24240 delay 60007416
+
+ test_proc_image-24240   [004] d..4. 11908.362180: bpf_trace_printk: 24242 delay 60023106
+
+ test_proc_image-24242   [004] d..4. 11908.366177: bpf_trace_printk: 24237 delay 60008508
+
+ test_proc_image-24237   [004] d..4. 11908.370179: bpf_trace_printk: 24230 delay 60012286
+
+ test_proc_image-24230   [004] d..4. 11908.374183: bpf_trace_printk: 24233 delay 56360940
+
+ test_proc_image-24233   [004] d..4. 11908.378181: bpf_trace_printk: 24239 delay 64004210
+
+ test_proc_image-24239   [004] d..4. 11908.382179: bpf_trace_printk: 24244 delay 56007749
+
+ test_proc_image-24244   [004] d..4. 11908.386182: bpf_trace_printk: 24243 delay 56008790
+
+ test_proc_image-24243   [004] d..4. 11908.390192: bpf_trace_printk: 24229 delay 56223227
+
+ test_proc_image-24229   [004] d..4. 11908.394194: bpf_trace_printk: 24241 delay 72022100
+
+ test_proc_image-24241   [004] d..4. 11908.398176: bpf_trace_printk: 24232 delay 60229096
+
+ test_proc_image-24232   [004] d..4. 11908.402197: bpf_trace_printk: 24235 delay 60012825
+
+ test_proc_image-24235   [004] d..4. 11908.406189: bpf_trace_printk: 24236 delay 59992438
+
+ test_proc_image-24236   [004] d..4. 11908.410195: bpf_trace_printk: 24234 delay 60013818
+
+ test_proc_image-24234   [004] d..4. 11908.414199: bpf_trace_printk: 24238 delay 60018638
+
+ test_proc_image-24238   [004] d..4. 11908.418205: bpf_trace_printk: 24231 delay 60030461
+
+ test_proc_image-24231   [004] d..4. 11908.422198: bpf_trace_printk: 24240 delay 60018428
+
+ test_proc_image-24240   [004] d..4. 11908.426195: bpf_trace_printk: 24242 delay 60019059
+
+ test_proc_image-24242   [004] d..4. 11908.430182: bpf_trace_printk: 24237 delay 60004791
+
+ test_proc_image-24237   [004] d..4. 11908.434204: bpf_trace_printk: 24230 delay 60022665
+
+ test_proc_image-24230   [004] d..4. 11908.438213: bpf_trace_printk: 24233 delay 60030429
+
+ test_proc_image-24233   [004] d..4. 11908.442196: bpf_trace_printk: 24239 delay 60017405
+
+ test_proc_image-24239   [004] d..4. 11908.446195: bpf_trace_printk: 24244 delay 60014098
+
+ test_proc_image-24244   [004] d..4. 11908.450195: bpf_trace_printk: 24243 delay 60005142
+
+ test_proc_image-24243   [004] d..4. 11908.454201: bpf_trace_printk: 24229 delay 60009471
+
+ test_proc_image-24229   [004] d..4. 11908.458195: bpf_trace_printk: 24241 delay 60021243
+
+ test_proc_image-24241   [004] d..4. 11908.462196: bpf_trace_printk: 24232 delay 60008078
+
+ test_proc_image-24232   [004] d..4. 11908.466191: bpf_trace_printk: 24235 delay 60003739
+
+ test_proc_image-24235   [004] d..4. 11908.470230: bpf_trace_printk: 24236 delay 60031933
+
+ test_proc_image-24236   [004] d..4. 11908.476019: bpf_trace_printk: 24234 delay 61802386
+
+ test_proc_image-24234   [004] d..4. 11908.483917: bpf_trace_printk: 24238 delay 65712284
+
+ test_proc_image-24238   [004] d..4. 11908.490330: bpf_trace_printk: 24231 delay 68084193
+
+ test_proc_image-24231   [004] d..4. 11908.493867: bpf_trace_printk: 24240 delay 67673554
+
+ test_proc_image-24240   [004] d..4. 11908.498249: bpf_trace_printk: 24242 delay 68059068
+
+ test_proc_image-24242   [004] d..4. 11908.502210: bpf_trace_printk: 24237 delay 68006772
+
+ test_proc_image-24237   [004] d..4. 11908.506213: bpf_trace_printk: 24233 delay 64018216
+
+ test_proc_image-24233   [004] d..4. 11908.510208: bpf_trace_printk: 24230 delay 71999298
+
+ test_proc_image-24230   [004] d..4. 11908.514219: bpf_trace_printk: 24239 delay 68024938
+
+ test_proc_image-24239   [004] d..4. 11908.518212: bpf_trace_printk: 24244 delay 68018976
+
+ test_proc_image-24244   [004] d..4. 11908.522212: bpf_trace_printk: 24243 delay 68013105
+
+ test_proc_image-24243   [004] d..4. 11908.525857: bpf_trace_printk: 24229 delay 67663491
+
+ test_proc_image-24229   [004] d..4. 11908.530226: bpf_trace_printk: 24241 delay 68029511
+
+ test_proc_image-24241   [004] d..4. 11908.534210: bpf_trace_printk: 24232 delay 68021977
+
+ test_proc_image-24232   [004] d..4. 11908.538216: bpf_trace_printk: 24235 delay 67991288
+
+ test_proc_image-24235   [004] d..4. 11908.542218: bpf_trace_printk: 24231 delay 48352677
+
+ test_proc_image-24231   [004] d..4. 11908.546218: bpf_trace_printk: 24242 delay 44010503
+
+ test_proc_image-24242   [004] d..4. 11908.550218: bpf_trace_printk: 24236 delay 74220833
+
+ test_proc_image-24236   [004] d..4. 11908.554220: bpf_trace_printk: 24237 delay 48008988
+
+ test_proc_image-24237   [004] d..4. 11908.558221: bpf_trace_printk: 24233 delay 48014278
+
+ test_proc_image-24233   [004] d..4. 11908.562224: bpf_trace_printk: 24240 delay 63984627
+
+ test_proc_image-24240   [004] d..4. 11908.566222: bpf_trace_printk: 24230 delay 52004283
+
+ test_proc_image-24230   [004] d..4. 11908.570222: bpf_trace_printk: 24239 delay 52011036
+
+ test_proc_image-24239   [004] d..4. 11908.574220: bpf_trace_printk: 24243 delay 48364669
+
+ test_proc_image-24243   [004] d..4. 11908.578011: bpf_trace_printk: 24244 delay 55800015
+
+ test_proc_image-24244   [004] d..4. 11908.582224: bpf_trace_printk: 24238 delay 91946419
+
+ test_proc_image-24238   [004] d..4. 11908.586220: bpf_trace_printk: 24241 delay 52011162
+
+ test_proc_image-24241   [004] d..4. 11908.590232: bpf_trace_printk: 24229 delay 60005890
+
+ test_proc_image-24229   [004] d..4. 11908.594232: bpf_trace_printk: 24232 delay 56016782
+
+ test_proc_image-24232   [004] d..4. 11908.598226: bpf_trace_printk: 24235 delay 56009999
+
+ test_proc_image-24235   [004] d..4. 11908.602226: bpf_trace_printk: 24234 delay 118313442
+
+ test_proc_image-24234   [004] d..4. 11908.605825: bpf_trace_printk: 24231 delay 59607943
+
+ test_proc_image-24231   [004] d..4. 11908.610222: bpf_trace_printk: 24242 delay 60005599
+
+ test_proc_image-24242   [004] d..4. 11908.614225: bpf_trace_printk: 24236 delay 60006421
+
+ test_proc_image-24236   [004] d..4. 11908.618225: bpf_trace_printk: 24237 delay 60005840
+
+ test_proc_image-24237   [004] d..4. 11908.622229: bpf_trace_printk: 24233 delay 60006606
+
+ test_proc_image-24233   [004] d..4. 11908.626216: bpf_trace_printk: 24240 delay 59996847
+
+ test_proc_image-24240   [004] d..4. 11908.630217: bpf_trace_printk: 24230 delay 59996666
+
+ test_proc_image-24230   [004] d..4. 11908.634227: bpf_trace_printk: 24243 delay 56217907
+
+ test_proc_image-24243   [004] d..4. 11908.638233: bpf_trace_printk: 24239 delay 64013988
+
+ test_proc_image-24239   [004] d..4. 11908.641938: bpf_trace_printk: 24238 delay 55719170
+
+ test_proc_image-24238   [004] d..4. 11908.646236: bpf_trace_printk: 24244 delay 64013367
+
+ test_proc_image-24244   [004] d..4. 11908.650237: bpf_trace_printk: 24241 delay 60009791
+
+ test_proc_image-24241   [004] d..4. 11908.654227: bpf_trace_printk: 24229 delay 59995725
+
+ test_proc_image-24229   [004] d..4. 11908.657851: bpf_trace_printk: 24232 delay 59626503
+
+ test_proc_image-24232   [004] d..4. 11908.662225: bpf_trace_printk: 24234 delay 56401597
+
+ test_proc_image-24234   [004] d..4. 11908.666240: bpf_trace_printk: 24235 delay 64015341
+
+ test_proc_image-24235   [004] d..4. 11908.670242: bpf_trace_printk: 24231 delay 60020572
+
+     migration/4-40      [004] d..4. 11908.671235: bpf_trace_printk: 24231 delay 7324
+
+ test_proc_image-24231   [004] d..4. 11908.677926: bpf_trace_printk: 24242 delay 63702537
+
+ test_proc_image-24242   [004] d..4. 11908.682265: bpf_trace_printk: 24236 delay 64041280
+
+ test_proc_image-24236   [004] d..4. 11908.686238: bpf_trace_printk: 24237 delay 64011343
+
+ test_proc_image-24237   [004] d..4. 11908.690230: bpf_trace_printk: 24239 delay 48293775
+
+ test_proc_image-24239   [004] d..4. 11908.694238: bpf_trace_printk: 24233 delay 68021873
+
+ test_proc_image-24233   [004] d..4. 11908.698244: bpf_trace_printk: 24240 delay 68028626
+
+ test_proc_image-24240   [004] d..4. 11908.701829: bpf_trace_printk: 24230 delay 67602390
+
+ test_proc_image-24230   [004] d..4. 11908.705804: bpf_trace_printk: 24243 delay 67572523
+
+ test_proc_image-24243   [004] d..4. 11908.709819: bpf_trace_printk: 24229 delay 51968679
+
+ test_proc_image-24229   [004] d..4. 11908.714073: bpf_trace_printk: 24244 delay 63836806
+
+ test_proc_image-24244   [004] d..4. 11908.717823: bpf_trace_printk: 24241 delay 63600373
+
+ test_proc_image-24241   [004] d..4. 11908.722240: bpf_trace_printk: 24238 delay 76007363
+
+ test_proc_image-24238   [004] d..4. 11908.726238: bpf_trace_printk: 24234 delay 60000203
+
+ test_proc_image-24234   [004] d..4. 11908.729805: bpf_trace_printk: 24235 delay 59564506
+
+ test_proc_image-24235   [004] d..4. 11908.734249: bpf_trace_printk: 24232 delay 72026120
+
+ test_proc_image-24232   [004] d..4. 11908.738086: bpf_trace_printk: 24240 delay 36258427
+
+ test_proc_image-24240   [004] d..4. 11908.742247: bpf_trace_printk: 24236 delay 56010815
+
+ test_proc_image-24236   [004] d..4. 11908.745796: bpf_trace_printk: 24237 delay 55567797
+
+ test_proc_image-24237   [004] d..4. 11908.750250: bpf_trace_printk: 24239 delay 56014562
+
+ test_proc_image-24239   [004] d..4. 11908.754246: bpf_trace_printk: 24242 delay 71982326
+
+ test_proc_image-24242   [004] d..4. 11908.758251: bpf_trace_printk: 24233 delay 60008950
+
+ test_proc_image-24233   [004] d..4. 11908.762263: bpf_trace_printk: 24230 delay 56458712
+
+ test_proc_image-24230   [004] d..4. 11908.766253: bpf_trace_printk: 24243 delay 56435488
+
+ test_proc_image-24243   [004] d..4. 11908.769973: bpf_trace_printk: 24244 delay 52150271
+
+ test_proc_image-24244   [004] d..4. 11908.774255: bpf_trace_printk: 24229 delay 60182777
+
+ test_proc_image-24229   [004] d..4. 11908.777840: bpf_trace_printk: 24238 delay 51603482
+
+ test_proc_image-24238   [004] d..4. 11908.782260: bpf_trace_printk: 24234 delay 52455911
+
+ test_proc_image-24234   [004] d..4. 11908.786254: bpf_trace_printk: 24241 delay 64015602
+
+ test_proc_image-24241   [004] d..4. 11908.790256: bpf_trace_printk: 24232 delay 52172233
+
+ test_proc_image-24232   [004] d..4. 11908.794259: bpf_trace_printk: 24235 delay 60011986
+
+ test_proc_image-24235   [004] d..4. 11908.798259: bpf_trace_printk: 24231 delay 120336456
+
+ test_proc_image-24231   [004] d..4. 11908.802260: bpf_trace_printk: 24236 delay 56464233
+
+ test_proc_image-24236   [004] d..4. 11908.805952: bpf_trace_printk: 24240 delay 63706565
+
+ test_proc_image-24240   [004] d..4. 11908.810254: bpf_trace_printk: 24243 delay 40280783
+
+ test_proc_image-24243   [004] d..4. 11908.814267: bpf_trace_printk: 24239 delay 60021746
+
+ test_proc_image-24239   [004] d..4. 11908.818252: bpf_trace_printk: 24242 delay 60001537
+
+ test_proc_image-24242   [004] d..4. 11908.822269: bpf_trace_printk: 24230 delay 56017469
+
+ test_proc_image-24230   [004] d..4. 11908.826269: bpf_trace_printk: 24233 delay 64009049
+
+ test_proc_image-24233   [004] d..4. 11908.830267: bpf_trace_printk: 24237 delay 80019094
+
+ test_proc_image-24237   [004] d..4. 11908.834267: bpf_trace_printk: 24229 delay 56427226
+
+ test_proc_image-24229   [004] d..4. 11908.838266: bpf_trace_printk: 24244 delay 64014018
+
+ test_proc_image-24244   [004] d..4. 11908.841808: bpf_trace_printk: 24234 delay 55554227
+
+ test_proc_image-24234   [004] d..4. 11908.846272: bpf_trace_printk: 24241 delay 56016175
+
+ test_proc_image-24241   [004] d..4. 11908.850270: bpf_trace_printk: 24238 delay 68012666
+
+ test_proc_image-24238   [004] d..4. 11908.854264: bpf_trace_printk: 24232 delay 60003700
+
+ test_proc_image-24232   [004] d..4. 11908.858290: bpf_trace_printk: 24235 delay 60029238
+
+ test_proc_image-24235   [004] d..4. 11908.862277: bpf_trace_printk: 24231 delay 60018067
+
+ test_proc_image-24231   [004] d..4. 11908.866258: bpf_trace_printk: 24236 delay 60307627
+
+ test_proc_image-24236   [004] d..4. 11908.870260: bpf_trace_printk: 24239 delay 52010234
+
+ test_proc_image-24239   [004] d..4. 11908.873800: bpf_trace_printk: 24243 delay 59535129
+
+ test_proc_image-24243   [004] d..4. 11908.877784: bpf_trace_printk: 24242 delay 55515804
+
+ test_proc_image-24242   [004] d..4. 11908.882273: bpf_trace_printk: 24230 delay 56006357
+
+ test_proc_image-24230   [004] d..4. 11908.885815: bpf_trace_printk: 24233 delay 55549939
+
+ test_proc_image-24233   [004] d..4. 11908.890277: bpf_trace_printk: 24240 delay 80027058
+
+ test_proc_image-24240   [004] d..4. 11908.893801: bpf_trace_printk: 24237 delay 59536584
+
+ test_proc_image-24237   [004] d..4. 11908.897787: bpf_trace_printk: 24244 delay 55980899
+
+ test_proc_image-24244   [004] d..4. 11908.902278: bpf_trace_printk: 24229 delay 64012597
+
+ test_proc_image-24229   [004] d..4. 11908.906280: bpf_trace_printk: 24241 delay 56011216
+
+ test_proc_image-24241   [004] d..4. 11908.909821: bpf_trace_printk: 24238 delay 55561021
+
+ test_proc_image-24238   [004] d..4. 11908.914278: bpf_trace_printk: 24232 delay 55993282
+
+ test_proc_image-24232   [004] d..4. 11908.917794: bpf_trace_printk: 24234 delay 71524807
+
+ test_proc_image-24234   [004] d..4. 11908.922279: bpf_trace_printk: 24235 delay 60004272
+
+ test_proc_image-24235   [004] d..4. 11908.926280: bpf_trace_printk: 24231 delay 60024109
+
+ test_proc_image-24231   [004] d..4. 11908.930279: bpf_trace_printk: 24236 delay 60021274
+
+ test_proc_image-24236   [004] d..4. 11908.934283: bpf_trace_printk: 24239 delay 60485526
+
+ test_proc_image-24239   [004] d..4. 11908.937796: bpf_trace_printk: 24230 delay 51982673
+
+ test_proc_image-24230   [004] d..4. 11908.942282: bpf_trace_printk: 24240 delay 48481961
+
+ test_proc_image-24240   [004] d..4. 11908.945813: bpf_trace_printk: 24243 delay 68031560
+
+ test_proc_image-24243   [004] d..4. 11908.949809: bpf_trace_printk: 24237 delay 52023319
+
+ test_proc_image-24237   [004] d..4. 11908.953819: bpf_trace_printk: 24233 delay 63544086
+
+ test_proc_image-24233   [004] d..4. 11908.957782: bpf_trace_printk: 24242 delay 75510148
+
+ test_proc_image-24242   [004] d..4. 11908.961843: bpf_trace_printk: 24229 delay 55564997
+
+ test_proc_image-24229   [004] d..4. 11908.966290: bpf_trace_printk: 24241 delay 56469586
+
+ test_proc_image-24241   [004] d..4. 11908.970288: bpf_trace_printk: 24244 delay 68012725
+
+ test_proc_image-24244   [004] d..4. 11908.973797: bpf_trace_printk: 24232 delay 56004593
+
+ test_proc_image-24232   [004] d..4. 11908.977790: bpf_trace_printk: 24238 delay 63513247
+
+ test_proc_image-24238   [004] d..4. 11908.981802: bpf_trace_printk: 24234 delay 59512066
+
+ test_proc_image-24234   [004] d..4. 11908.985791: bpf_trace_printk: 24235 delay 59511606
+
+ test_proc_image-24235   [004] d..4. 11908.989791: bpf_trace_printk: 24231 delay 59513219
+
+ test_proc_image-24231   [004] d..4. 11908.993794: bpf_trace_printk: 24236 delay 59512167
+
+ test_proc_image-24236   [004] d..4. 11908.997794: bpf_trace_printk: 24239 delay 59998370
+
+ test_proc_image-24239   [004] d..4. 11909.001795: bpf_trace_printk: 24240 delay 55982913
+
+ test_proc_image-24240   [004] d..4. 11909.005810: bpf_trace_printk: 24243 delay 56002319
+
+ test_proc_image-24243   [004] d..4. 11909.009799: bpf_trace_printk: 24230 delay 67518808
+
+     kworker/4:1-174     [004] d..4. 11909.013862: bpf_trace_printk: 24237 delay 60044338
+
+ test_proc_image-24237   [004] d..4. 11909.017784: bpf_trace_printk: 24244 delay 43987805
+
+ test_proc_image-24244   [004] d..4. 11909.021798: bpf_trace_printk: 24233 delay 64017927
+
+ test_proc_image-24233   [004] d..4. 11909.025801: bpf_trace_printk: 24242 delay 63958905
+
+ test_proc_image-24242   [004] d..4. 11909.029796: bpf_trace_printk: 24241 delay 59510242
+
+ test_proc_image-24241   [004] d..4. 11909.033801: bpf_trace_printk: 24229 delay 67512294
+
+ test_proc_image-24229   [004] d..4. 11909.037810: bpf_trace_printk: 24232 delay 60020562
+
+ test_proc_image-24232   [004] d..4. 11909.041816: bpf_trace_printk: 24238 delay 60028537
+
+ test_proc_image-24238   [004] d..4. 11909.045801: bpf_trace_printk: 24234 delay 60012056
+
+ test_proc_image-24234   [004] d..4. 11909.049813: bpf_trace_printk: 24235 delay 60023417
+
+ test_proc_image-24235   [004] d..4. 11909.053801: bpf_trace_printk: 24231 delay 60009150
+
+ test_proc_image-24231   [004] d..4. 11909.057807: bpf_trace_printk: 24236 delay 60015012
+
+ test_proc_image-24236   [004] d..4. 11909.061803: bpf_trace_printk: 24239 delay 60009781
+
+ test_proc_image-24239   [004] d..4. 11909.065849: bpf_trace_printk: 24240 delay 60028096
+
+ test_proc_image-24240   [004] d..4. 11909.069811: bpf_trace_printk: 24243 delay 60013298
+
+ test_proc_image-24243   [004] d..4. 11909.073808: bpf_trace_printk: 24230 delay 60003309
+
+ test_proc_image-24230   [004] d..4. 11909.077804: bpf_trace_printk: 24237 delay 60022506
+
+ test_proc_image-24237   [004] d..4. 11909.081807: bpf_trace_printk: 24244 delay 60010803
+
+ test_proc_image-24244   [004] d..4. 11909.085808: bpf_trace_printk: 24233 delay 60009210
+
+ test_proc_image-24233   [004] d..4. 11909.089800: bpf_trace_printk: 24242 delay 60005404
+
+ test_proc_image-24242   [004] d..4. 11909.093801: bpf_trace_printk: 24241 delay 60002930
+
+ test_proc_image-24241   [004] d..4. 11909.097802: bpf_trace_printk: 24229 delay 59994864
+
+ test_proc_image-24229   [004] d..4. 11909.101823: bpf_trace_printk: 24232 delay 60006877
+
+ test_proc_image-24232   [004] d..4. 11909.105809: bpf_trace_printk: 24238 delay 60008960
+
+ test_proc_image-24238   [004] d..4. 11909.109809: bpf_trace_printk: 24234 delay 59997739
+
+ test_proc_image-24234   [004] d..4. 11909.113821: bpf_trace_printk: 24235 delay 60020913
+
+ test_proc_image-24235   [004] d..4. 11909.117811: bpf_trace_printk: 24231 delay 60005253
+
+ test_proc_image-24231   [004] d..4. 11909.121793: bpf_trace_printk: 24236 delay 59992640
+
+ test_proc_image-24236   [004] d..4. 11909.125822: bpf_trace_printk: 24239 delay 59987170
+
+ test_proc_image-24239   [004] d..4. 11909.129807: bpf_trace_printk: 24240 delay 59998570
+
+ test_proc_image-24240   [004] d..4. 11909.133811: bpf_trace_printk: 24243 delay 60004251
+
+ test_proc_image-24243   [004] d..4. 11909.137809: bpf_trace_printk: 24230 delay 60006996
+
+ test_proc_image-24230   [004] d..4. 11909.141802: bpf_trace_printk: 24237 delay 59996767
+
+ test_proc_image-24237   [004] d..4. 11909.145819: bpf_trace_printk: 24244 delay 60012697
+
+ test_proc_image-24244   [004] d..4. 11909.149818: bpf_trace_printk: 24233 delay 60019310
+
+ test_proc_image-24233   [004] d..4. 11909.153820: bpf_trace_printk: 24242 delay 60020221
+
+ test_proc_image-24242   [004] d..4. 11909.157820: bpf_trace_printk: 24241 delay 60019220
+
+ test_proc_image-24241   [004] d..4. 11909.161827: bpf_trace_printk: 24229 delay 60006846
+
+ test_proc_image-24229   [004] d..4. 11909.165822: bpf_trace_printk: 24232 delay 60014962
+
+ test_proc_image-24232   [004] d..4. 11909.169821: bpf_trace_printk: 24238 delay 60014250
+
+ test_proc_image-24238   [004] d..4. 11909.173823: bpf_trace_printk: 24235 delay 56013880
+
+ test_proc_image-24235   [004] d..4. 11909.177812: bpf_trace_printk: 24234 delay 63992758
+
+ test_proc_image-24234   [004] d..4. 11909.181825: bpf_trace_printk: 24231 delay 60032554
+
+ test_proc_image-24231   [004] d..4. 11909.185839: bpf_trace_printk: 24236 delay 60018337
+
+ test_proc_image-24236   [004] d..4. 11909.189836: bpf_trace_printk: 24239 delay 60030151
+
+ test_proc_image-24239   [004] d..4. 11909.193827: bpf_trace_printk: 24240 delay 60017937
+
+ test_proc_image-24240   [004] d..4. 11909.197826: bpf_trace_printk: 24243 delay 60017647
+
+ test_proc_image-24243   [004] d..4. 11909.201831: bpf_trace_printk: 24230 delay 60030351
+
+ test_proc_image-24230   [004] d..4. 11909.205826: bpf_trace_printk: 24237 delay 60009361
+
+ test_proc_image-24237   [004] d..4. 11909.209828: bpf_trace_printk: 24244 delay 60011836
+
+ test_proc_image-24244   [004] d..4. 11909.213830: bpf_trace_printk: 24233 delay 60012056
+
+ test_proc_image-24233   [004] d..4. 11909.217839: bpf_trace_printk: 24242 delay 60021304
+
+ test_proc_image-24242   [004] d..4. 11909.221829: bpf_trace_printk: 24241 delay 60004061
+
+ test_proc_image-24241   [004] d..4. 11909.225831: bpf_trace_printk: 24229 delay 60010393
+
+ test_proc_image-24229   [004] d..4. 11909.229831: bpf_trace_printk: 24232 delay 60011234
+
+ test_proc_image-24232   [004] d..4. 11909.233832: bpf_trace_printk: 24238 delay 60011375
+
+ test_proc_image-24238   [004] d..4. 11909.237926: bpf_trace_printk: 24235 delay 60115863
+
+ test_proc_image-24235   [004] d..4. 11909.241839: bpf_trace_printk: 24234 delay 60015413
+
+ test_proc_image-24234   [004] d..4. 11909.245873: bpf_trace_printk: 24231 delay 60035931
+
+ test_proc_image-24231   [004] d..4. 11909.249838: bpf_trace_printk: 24236 delay 60003439
+
+ test_proc_image-24236   [004] d..4. 11909.253841: bpf_trace_printk: 24239 delay 60015843
+
+ test_proc_image-24239   [004] d..4. 11909.257840: bpf_trace_printk: 24240 delay 60014265
+
+ test_proc_image-24240   [004] d..4. 11909.261838: bpf_trace_printk: 24243 delay 60007773
+
+ test_proc_image-24243   [004] d..4. 11909.265829: bpf_trace_printk: 24230 delay 60002663
+
+ test_proc_image-24230   [004] d..4. 11909.269833: bpf_trace_printk: 24237 delay 60005538
+
+ test_proc_image-24237   [004] d..4. 11909.273845: bpf_trace_printk: 24244 delay 60014616
+
+ test_proc_image-24244   [004] d..4. 11909.277831: bpf_trace_printk: 24233 delay 59992884
+
+ test_proc_image-24233   [004] d..4. 11909.281836: bpf_trace_printk: 24242 delay 60008474
+
+ test_proc_image-24242   [004] d..4. 11909.285838: bpf_trace_printk: 24241 delay 60007963
+
+ test_proc_image-24241   [004] d..4. 11909.289840: bpf_trace_printk: 24229 delay 60009447
+
+ test_proc_image-24229   [004] d..4. 11909.293839: bpf_trace_printk: 24232 delay 60007533
+
+ test_proc_image-24232   [004] d..4. 11909.297838: bpf_trace_printk: 24238 delay 59913885
+
+ test_proc_image-24238   [004] d..4. 11909.301840: bpf_trace_printk: 24235 delay 60002239
+
+ test_proc_image-24235   [004] d..4. 11909.305859: bpf_trace_printk: 24231 delay 56021958
+
+ test_proc_image-24231   [004] d..4. 11909.309847: bpf_trace_printk: 24234 delay 63975007
+
+ test_proc_image-24234   [004] d..4. 11909.313849: bpf_trace_printk: 24236 delay 60009002
+
+ test_proc_image-24236   [004] d..4. 11909.317853: bpf_trace_printk: 24239 delay 60013726
+
+ test_proc_image-24239   [004] d..4. 11909.321857: bpf_trace_printk: 24240 delay 60018535
+
+ test_proc_image-24240   [004] d..4. 11909.325821: bpf_trace_printk: 24243 delay 59994810
+
+ test_proc_image-24243   [004] d..4. 11909.329848: bpf_trace_printk: 24230 delay 60016911
+
+ test_proc_image-24230   [004] d..4. 11909.333856: bpf_trace_printk: 24237 delay 60013027
+
+ test_proc_image-24237   [004] d..4. 11909.337844: bpf_trace_printk: 24244 delay 60014019
+
+ test_proc_image-24244   [004] d..4. 11909.341856: bpf_trace_printk: 24233 delay 60018648
+
+ test_proc_image-24233   [004] d..4. 11909.345845: bpf_trace_printk: 24242 delay 60010032
+
+ test_proc_image-24242   [004] d..4. 11909.349855: bpf_trace_printk: 24241 delay 60016825
+
+ test_proc_image-24241   [004] d..4. 11909.353858: bpf_trace_printk: 24229 delay 60020772
+
+ test_proc_image-24229   [004] d..4. 11909.357833: bpf_trace_printk: 24232 delay 59996326
+
+ test_proc_image-24232   [004] d..4. 11909.361857: bpf_trace_printk: 24238 delay 60019523
+
+ test_proc_image-24238   [004] d..4. 11909.365908: bpf_trace_printk: 24235 delay 60050302
+
+ test_proc_image-24235   [004] d..4. 11909.369862: bpf_trace_printk: 24231 delay 60017159
+
+ test_proc_image-24231   [004] d..4. 11909.373860: bpf_trace_printk: 24234 delay 60012140
+
+ test_proc_image-24234   [004] d..4. 11909.377867: bpf_trace_printk: 24236 delay 60015846
+
+ test_proc_image-24236   [004] d..4. 11909.381814: bpf_trace_printk: 24239 delay 59959810
+
+ test_proc_image-24239   [004] d..4. 11909.385848: bpf_trace_printk: 24240 delay 60028121
+
+ test_proc_image-24240   [004] d..4. 11909.389860: bpf_trace_printk: 24243 delay 60012902
+
+ test_proc_image-24243   [004] d..4. 11909.393857: bpf_trace_printk: 24230 delay 60003992
+
+ test_proc_image-24230   [004] d..4. 11909.397908: bpf_trace_printk: 24237 delay 60059106
+
+ test_proc_image-24237   [004] d..4. 11909.401862: bpf_trace_printk: 24244 delay 60009692
+
+ test_proc_image-24244   [004] d..4. 11909.405874: bpf_trace_printk: 24233 delay 60028748
+
+ test_proc_image-24233   [004] d..4. 11909.409863: bpf_trace_printk: 24242 delay 60009732
+
+ test_proc_image-24242   [004] d..4. 11909.413872: bpf_trace_printk: 24241 delay 60013680
+
+ test_proc_image-24241   [004] d..4. 11909.417879: bpf_trace_printk: 24229 delay 60044288
+
+ test_proc_image-24229   [004] d..4. 11909.421868: bpf_trace_printk: 24232 delay 60011656
+
+ test_proc_image-24232   [004] d..4. 11909.425916: bpf_trace_printk: 24238 delay 60010629
+
+ test_proc_image-24238   [004] d..4. 11909.429866: bpf_trace_printk: 24235 delay 60005369
+
+ test_proc_image-24235   [004] d..4. 11909.433862: bpf_trace_printk: 24231 delay 60004877
+
+ test_proc_image-24231   [004] d..4. 11909.437873: bpf_trace_printk: 24234 delay 60009496
+
+ test_proc_image-24234   [004] d..4. 11909.441898: bpf_trace_printk: 24236 delay 60082931
+
+ test_proc_image-24236   [004] d..4. 11909.445870: bpf_trace_printk: 24239 delay 60023407
+
+ test_proc_image-24239   [004] d..4. 11909.449867: bpf_trace_printk: 24240 delay 60009752
+
+ test_proc_image-24240   [004] d..4. 11909.453869: bpf_trace_printk: 24243 delay 60013118
+
+ test_proc_image-24243   [004] d..4. 11909.457883: bpf_trace_printk: 24230 delay 59981618
+
+ test_proc_image-24230   [004] d..4. 11909.461870: bpf_trace_printk: 24237 delay 60010343
+
+ test_proc_image-24237   [004] d..4. 11909.465872: bpf_trace_printk: 24244 delay 59999933
+
+ test_proc_image-24244   [004] d..4. 11909.469871: bpf_trace_printk: 24233 delay 60010132
+
+ test_proc_image-24233   [004] d..4. 11909.473896: bpf_trace_printk: 24242 delay 60024499
+
+ test_proc_image-24242   [004] d..4. 11909.477830: bpf_trace_printk: 24241 delay 59955999
+
+ test_proc_image-24241   [004] d..4. 11909.481869: bpf_trace_printk: 24229 delay 60003139
+
+ test_proc_image-24229   [004] d..4. 11909.485889: bpf_trace_printk: 24232 delay 59974309
+
+ test_proc_image-24232   [004] d..4. 11909.489922: bpf_trace_printk: 24238 delay 60042909
+
+ test_proc_image-24238   [004] d..4. 11909.493879: bpf_trace_printk: 24235 delay 60018724
+
+ test_proc_image-24235   [004] d..4. 11909.497817: bpf_trace_printk: 24231 delay 59945235
+
+ test_proc_image-24231   [004] d..4. 11909.501883: bpf_trace_printk: 24234 delay 59991237
+
+ test_proc_image-24234   [004] d..4. 11909.505899: bpf_trace_printk: 24236 delay 60027776
+
+ test_proc_image-24236   [004] d..4. 11909.509877: bpf_trace_printk: 24239 delay 60011425
+
+ test_proc_image-24239   [004] d..4. 11909.513878: bpf_trace_printk: 24240 delay 60010393
+
+ test_proc_image-24240   [004] d..4. 11909.517936: bpf_trace_printk: 24243 delay 60054267
+
+ test_proc_image-24243   [004] d..4. 11909.521923: bpf_trace_printk: 24230 delay 60047539
+
+ test_proc_image-24230   [004] d..4. 11909.525877: bpf_trace_printk: 24237 delay 60006160
+
+ test_proc_image-24237   [004] d..4. 11909.529869: bpf_trace_printk: 24244 delay 59999117
+
+ test_proc_image-24244   [004] d..4. 11909.533886: bpf_trace_printk: 24233 delay 59993806
+
+ test_proc_image-24233   [004] d..4. 11909.537893: bpf_trace_printk: 24242 delay 60062206
+
+ test_proc_image-24242   [004] d..4. 11909.541874: bpf_trace_printk: 24241 delay 60007813
+
+ test_proc_image-24241   [004] d..4. 11909.545908: bpf_trace_printk: 24229 delay 60019806
+
+ test_proc_image-24229   [004] d..4. 11909.549887: bpf_trace_printk: 24232 delay 59981564
+
+ test_proc_image-24232   [004] d..4. 11909.553894: bpf_trace_printk: 24238 delay 60014566
+
+ test_proc_image-24238   [004] d..4. 11909.557879: bpf_trace_printk: 24235 delay 60064551
+
+ test_proc_image-24235   [004] d..4. 11909.561878: bpf_trace_printk: 24231 delay 59996872
+
+ test_proc_image-24231   [004] d..4. 11909.565900: bpf_trace_printk: 24234 delay 60003847
+
+ test_proc_image-24234   [004] d..4. 11909.569883: bpf_trace_printk: 24236 delay 60007373
+
+ test_proc_image-24236   [004] d..4. 11909.573889: bpf_trace_printk: 24239 delay 60012984
+
+ test_proc_image-24239   [004] d..4. 11909.577900: bpf_trace_printk: 24240 delay 59968279
+
+ test_proc_image-24240   [004] d..4. 11909.581897: bpf_trace_printk: 24243 delay 59981028
+
+ test_proc_image-24243   [004] d..4. 11909.585895: bpf_trace_printk: 24230 delay 60020313
+
+ test_proc_image-24230   [004] d..4. 11909.589893: bpf_trace_printk: 24237 delay 60026174
+
+ test_proc_image-24237   [004] d..4. 11909.593820: bpf_trace_printk: 24244 delay 59936595
+
+ test_proc_image-24244   [004] d..4. 11909.597915: bpf_trace_printk: 24233 delay 60022307
+
+ test_proc_image-24233   [004] d..4. 11909.601904: bpf_trace_printk: 24242 delay 60028549
+
+ test_proc_image-24242   [004] d..4. 11909.605904: bpf_trace_printk: 24241 delay 59997740
+
+ test_proc_image-24241   [004] d..4. 11909.609897: bpf_trace_printk: 24229 delay 60011115
+
+ test_proc_image-24229   [004] d..4. 11909.613942: bpf_trace_printk: 24232 delay 60049779
+
+ test_proc_image-24232   [004] d..4. 11909.617900: bpf_trace_printk: 24238 delay 60021335
+
+ test_proc_image-24238   [004] d..4. 11909.621901: bpf_trace_printk: 24235 delay 60023279
+
+ test_proc_image-24235   [004] d..4. 11909.625900: bpf_trace_printk: 24234 delay 56018330
+
+ test_proc_image-24234   [004] d..4. 11909.629917: bpf_trace_printk: 24231 delay 64017946
+
+ test_proc_image-24231   [004] d..4. 11909.633903: bpf_trace_printk: 24236 delay 60015353
+
+ test_proc_image-24236   [004] d..4. 11909.637904: bpf_trace_printk: 24239 delay 60005033
+
+ test_proc_image-24239   [004] d..4. 11909.641903: bpf_trace_printk: 24240 delay 60007798
+
+ test_proc_image-24240   [004] d..4. 11909.645920: bpf_trace_printk: 24243 delay 60024089
+
+ test_proc_image-24243   [004] d..4. 11909.649915: bpf_trace_printk: 24230 delay 60021535
+
+ test_proc_image-24230   [004] d..4. 11909.653926: bpf_trace_printk: 24237 delay 60103660
+
+ test_proc_image-24237   [004] d..4. 11909.657934: bpf_trace_printk: 24233 delay 56030272
+
+ test_proc_image-24233   [004] d..4. 11909.661947: bpf_trace_printk: 24242 delay 56042416
+
+ test_proc_image-24242   [004] d..4. 11909.665928: bpf_trace_printk: 24244 delay 68016764
+
+ test_proc_image-24244   [004] d..4. 11909.669911: bpf_trace_printk: 24241 delay 60015273
+
+ test_proc_image-24241   [004] d..4. 11909.673921: bpf_trace_printk: 24229 delay 59980267
+
+ test_proc_image-24229   [004] d..4. 11909.677905: bpf_trace_printk: 24232 delay 60007598
+
+ test_proc_image-24232   [004] d..4. 11909.681820: bpf_trace_printk: 24238 delay 59921033
+
+ test_proc_image-24238   [004] d..4. 11909.685912: bpf_trace_printk: 24235 delay 60013148
+
+ test_proc_image-24235   [004] d..4. 11909.689920: bpf_trace_printk: 24234 delay 60005064
+
+ test_proc_image-24234   [004] d..4. 11909.693916: bpf_trace_printk: 24231 delay 60013099
+
+ test_proc_image-24231   [004] d..4. 11909.697915: bpf_trace_printk: 24236 delay 60011146
+
+ test_proc_image-24236   [004] d..4. 11909.701913: bpf_trace_printk: 24239 delay 60012809
+
+ test_proc_image-24239   [004] d..4. 11909.705936: bpf_trace_printk: 24240 delay 60017448
+
+ test_proc_image-24240   [004] d..4. 11909.709915: bpf_trace_printk: 24243 delay 60002388
+
+ test_proc_image-24243   [004] d..4. 11909.713919: bpf_trace_printk: 24230 delay 59997660
+
+ test_proc_image-24230   [004] d..4. 11909.717915: bpf_trace_printk: 24237 delay 59985186
+
+ test_proc_image-24237   [004] d..4. 11909.721963: bpf_trace_printk: 24242 delay 56028008
+
+ test_proc_image-24242   [004] d..4. 11909.725935: bpf_trace_printk: 24233 delay 63991276
+
+ test_proc_image-24233   [004] d..4. 11909.729922: bpf_trace_printk: 24244 delay 60013390
+
+ test_proc_image-24244   [004] d..4. 11909.733819: bpf_trace_printk: 24241 delay 59900826
+
+ test_proc_image-24241   [004] d..4. 11909.738023: bpf_trace_printk: 24229 delay 60117237
+
+ test_proc_image-24229   [004] d..4. 11909.741922: bpf_trace_printk: 24232 delay 60103862
+
+ test_proc_image-24232   [004] d..4. 11909.745922: bpf_trace_printk: 24235 delay 56005616
+
+ test_proc_image-24235   [004] d..4. 11909.749937: bpf_trace_printk: 24238 delay 64026334
+
+ test_proc_image-24238   [004] d..4. 11909.753935: bpf_trace_printk: 24234 delay 60019952
+
+ test_proc_image-24234   [004] d..4. 11909.757925: bpf_trace_printk: 24231 delay 60012127
+
+ test_proc_image-24231   [004] d..4. 11909.761923: bpf_trace_printk: 24236 delay 60011075
+
+ test_proc_image-24236   [004] d..4. 11909.765918: bpf_trace_printk: 24239 delay 59984284
+
+ test_proc_image-24239   [004] d..4. 11909.769937: bpf_trace_printk: 24240 delay 60021375
+
+ test_proc_image-24240   [004] d..4. 11909.773931: bpf_trace_printk: 24243 delay 60013700
+
+ test_proc_image-24243   [004] d..4. 11909.777926: bpf_trace_printk: 24230 delay 60012578
+
+ test_proc_image-24230   [004] d..4. 11909.781940: bpf_trace_printk: 24237 delay 59985848
+
+ test_proc_image-24237   [004] d..4. 11909.785957: bpf_trace_printk: 24244 delay 52137136
+
+ test_proc_image-24244   [004] d..4. 11909.789927: bpf_trace_printk: 24242 delay 63994362
+
+ test_proc_image-24242   [004] d..4. 11909.793819: bpf_trace_printk: 24233 delay 63898369
+
+ test_proc_image-24233   [004] d..4. 11909.797940: bpf_trace_printk: 24229 delay 56017628
+
+ test_proc_image-24229   [004] d..4. 11909.801929: bpf_trace_printk: 24241 delay 63908549
+
+ test_proc_image-24241   [004] d..4. 11909.805933: bpf_trace_printk: 24232 delay 60012668
+
+ test_proc_image-24232   [004] d..4. 11909.809930: bpf_trace_printk: 24235 delay 59995976
+
+ test_proc_image-24235   [004] d..4. 11909.813949: bpf_trace_printk: 24238 delay 60016696
+
+ test_proc_image-24238   [004] d..4. 11909.817946: bpf_trace_printk: 24234 delay 60021485
+
+ test_proc_image-24234   [004] d..4. 11909.821952: bpf_trace_printk: 24231 delay 60030543
+
+ test_proc_image-24231   [004] d..4. 11909.825935: bpf_trace_printk: 24236 delay 60021076
+
+ test_proc_image-24236   [004] d..4. 11909.829959: bpf_trace_printk: 24239 delay 60023350
+
+ test_proc_image-24239   [004] d..4. 11909.833944: bpf_trace_printk: 24240 delay 60013752
+
+ test_proc_image-24240   [004] d..4. 11909.837933: bpf_trace_printk: 24243 delay 60007540
+
+ test_proc_image-24243   [004] d..4. 11909.841939: bpf_trace_printk: 24230 delay 60002179
+
+ test_proc_image-24230   [004] d..4. 11909.845975: bpf_trace_printk: 24237 delay 60017900
+
+ test_proc_image-24237   [004] d..4. 11909.849947: bpf_trace_printk: 24242 delay 56128641
+
+ test_proc_image-24242   [004] d..4. 11909.853943: bpf_trace_printk: 24244 delay 64017308
+
+ test_proc_image-24244   [004] d..4. 11909.857945: bpf_trace_printk: 24233 delay 60007631
+
+ test_proc_image-24233   [004] d..4. 11909.861828: bpf_trace_printk: 24229 delay 59899808
+
+ test_proc_image-24229   [004] d..4. 11909.865950: bpf_trace_printk: 24241 delay 60018312
+
+ test_proc_image-24241   [004] d..4. 11909.869954: bpf_trace_printk: 24232 delay 60025225
+
+ test_proc_image-24232   [004] d..4. 11909.874602: bpf_trace_printk: 24235 delay 60655412
+
+ test_proc_image-24235   [004] d..4. 11909.877961: bpf_trace_printk: 24238 delay 60015927
+
+ test_proc_image-24238   [004] d..4. 11909.881948: bpf_trace_printk: 24231 delay 56014160
+
+ test_proc_image-24231   [004] d..4. 11909.885947: bpf_trace_printk: 24234 delay 63996084
+
+ test_proc_image-24234   [004] d..4. 11909.889958: bpf_trace_printk: 24236 delay 60002096
+
+ test_proc_image-24236   [004] d..4. 11909.893949: bpf_trace_printk: 24239 delay 60006965
+
+ test_proc_image-24239   [004] d..4. 11909.897942: bpf_trace_printk: 24240 delay 60011364
+
+ test_proc_image-24240   [004] d..4. 11909.901945: bpf_trace_printk: 24243 delay 60007787
+
+ test_proc_image-24243   [004] d..4. 11909.906004: bpf_trace_printk: 24230 delay 60034397
+
+ test_proc_image-24230   [004] d..4. 11909.910109: bpf_trace_printk: 24237 delay 60164876
+
+ test_proc_image-24237   [004] d..4. 11909.913947: bpf_trace_printk: 24242 delay 60005022
+
+ test_proc_image-24242   [004] d..4. 11909.917942: bpf_trace_printk: 24244 delay 60000052
+
+ test_proc_image-24244   [004] d..4. 11909.921964: bpf_trace_printk: 24233 delay 60138172
+
+ test_proc_image-24233   [004] d..4. 11909.925974: bpf_trace_printk: 24229 delay 60021110
+
+ test_proc_image-24229   [004] d..4. 11909.929956: bpf_trace_printk: 24241 delay 60001874
+
+ test_proc_image-24241   [004] d..4. 11909.933953: bpf_trace_printk: 24235 delay 55995373
+
+ test_proc_image-24235   [004] d..4. 11909.938288: bpf_trace_printk: 24232 delay 63687205
+
+ test_proc_image-24232   [004] d..4. 11909.941956: bpf_trace_printk: 24238 delay 60009051
+
+ test_proc_image-24238   [004] d..4. 11909.945974: bpf_trace_printk: 24231 delay 60028769
+
+ test_proc_image-24231   [004] d..4. 11909.949956: bpf_trace_printk: 24234 delay 60000535
+
+ test_proc_image-24234   [004] d..4. 11909.953968: bpf_trace_printk: 24236 delay 60018731
+
+ test_proc_image-24236   [004] d..4. 11909.957763: bpf_trace_printk: 24239 delay 59822878
+
+ test_proc_image-24239   [004] d..4. 11909.961956: bpf_trace_printk: 24240 delay 60012659
+
+ test_proc_image-24240   [004] d..4. 11909.965968: bpf_trace_printk: 24243 delay 59964247
+
+ test_proc_image-24243   [004] d..4. 11909.969969: bpf_trace_printk: 24237 delay 56022698
+
+ test_proc_image-24237   [004] d..4. 11909.973951: bpf_trace_printk: 24230 delay 63843496
+
+ test_proc_image-24230   [004] d..4. 11909.977960: bpf_trace_printk: 24242 delay 60018590
+
+ test_proc_image-24242   [004] d..4. 11909.981970: bpf_trace_printk: 24244 delay 60006948
+
+ test_proc_image-24244   [004] d..4. 11909.985958: bpf_trace_printk: 24233 delay 59989936
+
+ test_proc_image-24233   [004] d..4. 11909.989961: bpf_trace_printk: 24229 delay 60007670
+
+ test_proc_image-24229   [004] d..4. 11909.993877: bpf_trace_printk: 24241 delay 59924701
+
+ test_proc_image-24241   [004] d..4. 11909.997972: bpf_trace_printk: 24232 delay 56016577
+
+ test_proc_image-24232   [004] d..4. 11910.001966: bpf_trace_printk: 24235 delay 63680326
+
+     kworker/4:1-174     [004] d..4. 11910.006002: bpf_trace_printk: 24238 delay 60029721
+
+ test_proc_image-24238   [004] d..4. 11910.009968: bpf_trace_printk: 24231 delay 60013089
+
+ test_proc_image-24231   [004] d..4. 11910.013983: bpf_trace_printk: 24234 delay 60016404
+
+ test_proc_image-24234   [004] d..4. 11910.017969: bpf_trace_printk: 24236 delay 60206025
+
+ test_proc_image-24236   [004] d..4. 11910.021970: bpf_trace_printk: 24240 delay 56004413
+
+ test_proc_image-24240   [004] d..4. 11910.025816: bpf_trace_printk: 24239 delay 63860688
+
+ test_proc_image-24239   [004] d..4. 11910.029997: bpf_trace_printk: 24243 delay 60027637
+
+ test_proc_image-24243   [004] d..4. 11910.033945: bpf_trace_printk: 24237 delay 59978914
+
+ test_proc_image-24237   [004] d..4. 11910.038021: bpf_trace_printk: 24230 delay 60056741
+
+ test_proc_image-24230   [004] d..4. 11910.041824: bpf_trace_printk: 24242 delay 59852043
+
+ test_proc_image-24242   [004] d..4. 11910.045997: bpf_trace_printk: 24244 delay 60036643
+
+ test_proc_image-24244   [004] d..4. 11910.049791: bpf_trace_printk: 24233 delay 59829670
+
+ test_proc_image-24233   [004] d..4. 11910.053972: bpf_trace_printk: 24229 delay 60093782
+
+ test_proc_image-24229   [004] d..4. 11910.057904: bpf_trace_printk: 24241 delay 59933277
+
+ test_proc_image-24241   [004] d..4. 11910.061985: bpf_trace_printk: 24232 delay 60019040
+
+ test_proc_image-24232   [004] d..4. 11910.065978: bpf_trace_printk: 24235 delay 60007158
+
+ test_proc_image-24235   [004] d..4. 11910.069966: bpf_trace_printk: 24238 delay 59999874
+
+ test_proc_image-24238   [004] d..4. 11910.073978: bpf_trace_printk: 24231 delay 59998141
+
+ test_proc_image-24231   [004] d..4. 11910.077884: bpf_trace_printk: 24234 delay 59917121
+
+ test_proc_image-24234   [004] d..4. 11910.081978: bpf_trace_printk: 24236 delay 60010128
+
+ test_proc_image-24236   [004] d..4. 11910.085981: bpf_trace_printk: 24240 delay 60168990
+
+ test_proc_image-24240   [004] d..4. 11910.089977: bpf_trace_printk: 24239 delay 59985311
+
+ test_proc_image-24239   [004] d..4. 11910.093978: bpf_trace_printk: 24243 delay 60050905
+
+ test_proc_image-24243   [004] d..4. 11910.097974: bpf_trace_printk: 24230 delay 56156147
+
+ test_proc_image-24230   [004] d..4. 11910.101981: bpf_trace_printk: 24237 delay 63967647
+
+ test_proc_image-24237   [004] d..4. 11910.105994: bpf_trace_printk: 24244 delay 56206869
+
+ test_proc_image-24244   [004] d..4. 11910.109980: bpf_trace_printk: 24242 delay 63988333
+
+ test_proc_image-24242   [004] d..4. 11910.113984: bpf_trace_printk: 24233 delay 60016747
+
+ test_proc_image-24233   [004] d..4. 11910.117987: bpf_trace_printk: 24229 delay 60085258
+
+ test_proc_image-24229   [004] d..4. 11910.122003: bpf_trace_printk: 24241 delay 60018931
+
+ test_proc_image-24241   [004] d..4. 11910.125993: bpf_trace_printk: 24232 delay 60015846
+
+ test_proc_image-24232   [004] d..4. 11910.129988: bpf_trace_printk: 24235 delay 60023039
+
+ test_proc_image-24235   [004] d..4. 11910.133991: bpf_trace_printk: 24238 delay 60015244
+
+ test_proc_image-24238   [004] d..4. 11910.137993: bpf_trace_printk: 24231 delay 60111092
+
+ test_proc_image-24231   [004] d..4. 11910.141974: bpf_trace_printk: 24234 delay 59997817
+
+ test_proc_image-24234   [004] d..4. 11910.146004: bpf_trace_printk: 24236 delay 60023415
+
+ test_proc_image-24236   [004] d..4. 11910.150001: bpf_trace_printk: 24240 delay 60025418
+
+ test_proc_image-24240   [004] d..4. 11910.153991: bpf_trace_printk: 24239 delay 60014849
+
+ test_proc_image-24239   [004] d..4. 11910.157985: bpf_trace_printk: 24243 delay 60013105
+
+ test_proc_image-24243   [004] d..4. 11910.161988: bpf_trace_printk: 24230 delay 60008687
+
+ test_proc_image-24230   [004] d..4. 11910.165993: bpf_trace_printk: 24237 delay 60000335
+
+ test_proc_image-24237   [004] d..4. 11910.169930: bpf_trace_printk: 24244 delay 59951805
+
+ test_proc_image-24244   [004] d..4. 11910.173998: bpf_trace_printk: 24242 delay 60014736
+
+ test_proc_image-24242   [004] d..4. 11910.177996: bpf_trace_printk: 24233 delay 60010497
+
+ test_proc_image-24233   [004] d..4. 11910.181997: bpf_trace_printk: 24229 delay 59994357
+
+ test_proc_image-24229   [004] d..4. 11910.186002: bpf_trace_printk: 24241 delay 60011154
+
+ test_proc_image-24241   [004] d..4. 11910.189883: bpf_trace_printk: 24232 delay 59894934
+
+ test_proc_image-24232   [004] d..4. 11910.194001: bpf_trace_printk: 24235 delay 60010564
+
+ test_proc_image-24235   [004] d..4. 11910.198033: bpf_trace_printk: 24238 delay 60040815
+
+ test_proc_image-24238   [004] d..4. 11910.202005: bpf_trace_printk: 24231 delay 60030765
+
+ test_proc_image-24231   [004] d..4. 11910.206005: bpf_trace_printk: 24234 delay 60002672
+
+ test_proc_image-24234   [004] d..4. 11910.209997: bpf_trace_printk: 24236 delay 59997753
+
+ test_proc_image-24236   [004] d..4. 11910.213817: bpf_trace_printk: 24240 delay 59826052
+
+ test_proc_image-24240   [004] d..4. 11910.218002: bpf_trace_printk: 24239 delay 60017696
+
+ test_proc_image-24239   [004] d..4. 11910.222014: bpf_trace_printk: 24243 delay 60027124
+
+ test_proc_image-24243   [004] d..4. 11910.226002: bpf_trace_printk: 24230 delay 60010372
+
+ test_proc_image-24230   [004] d..4. 11910.230003: bpf_trace_printk: 24237 delay 60074501
+
+ test_proc_image-24237   [004] d..4. 11910.234004: bpf_trace_printk: 24244 delay 60009216
+
+ test_proc_image-24244   [004] d..4. 11910.238010: bpf_trace_printk: 24242 delay 60014837
+
+ test_proc_image-24242   [004] d..4. 11910.241871: bpf_trace_printk: 24233 delay 59875743
+
+ test_proc_image-24233   [004] d..4. 11910.246032: bpf_trace_printk: 24229 delay 60028998
+
+ test_proc_image-24229   [004] d..4. 11910.250034: bpf_trace_printk: 24241 delay 60150719
+
+ test_proc_image-24241   [004] d..4. 11910.253869: bpf_trace_printk: 24232 delay 59863564
+
+ test_proc_image-24232   [004] d..4. 11910.258080: bpf_trace_printk: 24235 delay 60038367
+
+ test_proc_image-24235   [004] d..4. 11910.262084: bpf_trace_printk: 24238 delay 60071926
+
+ test_proc_image-24238   [004] d..4. 11910.266111: bpf_trace_printk: 24231 delay 60100595
+
+ test_proc_image-24231   [004] d..4. 11910.270017: bpf_trace_printk: 24234 delay 60015955
+
+ test_proc_image-24234   [004] d..4. 11910.274061: bpf_trace_printk: 24236 delay 60233743
+
+ test_proc_image-24236   [004] d..4. 11910.278041: bpf_trace_printk: 24240 delay 60036824
+
+ test_proc_image-24240   [004] d..4. 11910.282027: bpf_trace_printk: 24239 delay 60012998
+
+ test_proc_image-24239   [004] d..4. 11910.286021: bpf_trace_printk: 24243 delay 60019681
+
+ test_proc_image-24243   [004] d..4. 11910.290032: bpf_trace_printk: 24230 delay 60028247
+
+ test_proc_image-24230   [004] d..4. 11910.294039: bpf_trace_printk: 24237 delay 60032726
+
+ test_proc_image-24237   [004] d..4. 11910.298022: bpf_trace_printk: 24244 delay 60013880
+
+        cpptools-5019    [004] d..4. 11910.299647: bpf_trace_printk: 24244 delay 21171
+
+ test_proc_image-24244   [004] d..4. 11910.306016: bpf_trace_printk: 24242 delay 64148455
+
+ test_proc_image-24242   [004] d..4. 11910.310036: bpf_trace_printk: 24233 delay 64008038
+
+ test_proc_image-24233   [004] d..4. 11910.314032: bpf_trace_printk: 24229 delay 64002748
+
+ test_proc_image-24229   [004] d..4. 11910.318021: bpf_trace_printk: 24241 delay 64157912
+
+ test_proc_image-24241   [004] d..4. 11910.322042: bpf_trace_printk: 24232 delay 63971794
+
+ test_proc_image-24232   [004] d..4. 11910.326069: bpf_trace_printk: 24235 delay 63995644
+
+ test_proc_image-24235   [004] d..4. 11910.330041: bpf_trace_printk: 24238 delay 63937579
+
+ test_proc_image-24238   [004] d..4. 11910.334041: bpf_trace_printk: 24231 delay 64030305
+
+ test_proc_image-24231   [004] d..4. 11910.338042: bpf_trace_printk: 24234 delay 63994267
+
+ test_proc_image-24234   [004] d..4. 11910.342045: bpf_trace_printk: 24236 delay 64008850
+
+ test_proc_image-24236   [004] d..4. 11910.346042: bpf_trace_printk: 24240 delay 64017597
+
+ test_proc_image-24240   [004] d..4. 11910.350046: bpf_trace_printk: 24239 delay 64025963
+
+ test_proc_image-24239   [004] d..4. 11910.354062: bpf_trace_printk: 24243 delay 64029830
+
+ test_proc_image-24243   [004] d..4. 11910.357205: bpf_trace_printk: 24237 delay 59184305
+
+ test_proc_image-24237   [004] d..4. 11910.362058: bpf_trace_printk: 24230 delay 68018087
+
+ test_proc_image-24230   [004] d..4. 11910.366044: bpf_trace_printk: 24242 delay 56006638
+
+ test_proc_image-24242   [004] d..4. 11910.370054: bpf_trace_printk: 24233 delay 56018611
+
+ test_proc_image-24233   [004] d..4. 11910.374065: bpf_trace_printk: 24229 delay 56041795
+
+ test_proc_image-24229   [004] d..4. 11910.378066: bpf_trace_printk: 24241 delay 56021276
+
+ test_proc_image-24241   [004] d..4. 11910.382085: bpf_trace_printk: 24235 delay 52038209
+
+ test_proc_image-24235   [004] d..4. 11910.386076: bpf_trace_printk: 24232 delay 60005497
+
+ test_proc_image-24232   [004] d..4. 11910.389988: bpf_trace_printk: 24238 delay 55943960
+
+ test_proc_image-24238   [004] d..4. 11910.394063: bpf_trace_printk: 24231 delay 56020586
+
+ test_proc_image-24231   [004] d..4. 11910.398039: bpf_trace_printk: 24234 delay 55995327
+
+ test_proc_image-24234   [004] d..4. 11910.402063: bpf_trace_printk: 24236 delay 56020165
+
+ test_proc_image-24236   [004] d..4. 11910.406055: bpf_trace_printk: 24240 delay 56008332
+
+ test_proc_image-24240   [004] d..4. 11910.410068: bpf_trace_printk: 24239 delay 56006539
+
+ test_proc_image-24239   [004] d..4. 11910.413689: bpf_trace_printk: 24230 delay 47646818
+
+ test_proc_image-24230   [004] d..4. 11910.418085: bpf_trace_printk: 24244 delay 112066428
+
+ test_proc_image-24244   [004] d..4. 11910.422041: bpf_trace_printk: 24242 delay 51990539
+
+ test_proc_image-24242   [004] d..4. 11910.423807: bpf_trace_printk: 24233 delay 49747148
+
+ test_proc_image-24233   [004] d..4. 11910.429817: bpf_trace_printk: 24237 delay 67759870
+
+ test_proc_image-24237   [004] d..4. 11910.431384: bpf_trace_printk: 24229 delay 53326180
+
+ test_proc_image-24229   [004] d..4. 11910.438073: bpf_trace_printk: 24241 delay 55993854
+
+ test_proc_image-24241   [004] d..4. 11910.439764: bpf_trace_printk: 24232 delay 49780218
+
+ test_proc_image-24232   [004] d..4. 11910.446078: bpf_trace_printk: 24235 delay 60003278
+
+ test_proc_image-24235   [004] d..4. 11910.450067: bpf_trace_printk: 24231 delay 52026655
+
+     kworker/4:1-174     [004] d..4. 11910.454114: bpf_trace_printk: 24238 delay 60052873
+
+ test_proc_image-24238   [004] d..4. 11910.458080: bpf_trace_printk: 24236 delay 52022938
+
+ test_proc_image-24236   [004] d..4. 11910.462076: bpf_trace_printk: 24234 delay 60013538
+
+ test_proc_image-24234   [004] d..4. 11910.466087: bpf_trace_printk: 24240 delay 56022697
+
+ test_proc_image-24240   [004] d..4. 11910.469336: bpf_trace_printk: 24244 delay 47300257
+
+     kworker/4:1-174     [004] d..4. 11910.470079: bpf_trace_printk: 24230 delay 52002449
+
+ test_proc_image-24230   [004] d..4. 11910.473875: bpf_trace_printk: 24244 delay 3808727
+
+ test_proc_image-24244   [004] d..4. 11910.477088: bpf_trace_printk: 24235 delay 27023218
+
+ test_proc_image-24235   [004] d..4. 11910.482081: bpf_trace_printk: 24231 delay 27986648
+
+ test_proc_image-24231   [004] d..4. 11910.486070: bpf_trace_printk: 24238 delay 27996807
+
+ test_proc_image-24238   [004] d..4. 11910.490064: bpf_trace_printk: 24236 delay 27989172
+
+ test_proc_image-24236   [004] d..4. 11910.492768: bpf_trace_printk: 24234 delay 26670297
+
+     kworker/4:1-174     [004] d..4. 11910.494124: bpf_trace_printk: 24233 delay 64312542
+
+ test_proc_image-24233   [004] d..4. 11910.498102: bpf_trace_printk: 24229 delay 60027567
+
+ test_proc_image-24229   [004] d..4. 11910.502090: bpf_trace_printk: 24234 delay 7985691
+
+ test_proc_image-24234   [004] d..4. 11910.506144: bpf_trace_printk: 24232 delay 60065238
+
+     kworker/4:1-174     [004] d..4. 11910.510145: bpf_trace_printk: 24230 delay 36273685
+
+ test_proc_image-24230   [004] d..4. 11910.513893: bpf_trace_printk: 24231 delay 27820366
+
+ test_proc_image-24231   [004] d..4. 11910.518067: bpf_trace_printk: 24238 delay 28002292
+
+     kworker/4:1-174     [004] d..4. 11910.522125: bpf_trace_printk: 24235 delay 40048616
+
+ test_proc_image-24235   [004] d..4. 11910.524809: bpf_trace_printk: 24233 delay 26709515
+
+ test_proc_image-24233   [004] d..4. 11910.527614: bpf_trace_printk: 24229 delay 25526729
+
+ test_proc_image-24229   [004] d..4. 11910.532072: bpf_trace_printk: 24234 delay 25930717
+
+ test_proc_image-24234   [004] d..4. 11910.538094: bpf_trace_printk: 24230 delay 24196838
+
+ test_proc_image-24230   [004] d..4. 11910.538303: bpf_trace_printk: 24232 delay 28183677
+
+ test_proc_image-24232   [004] d..4. 11910.543050: bpf_trace_printk: 24235 delay 4840416
+
+ test_proc_image-24235   [004] d..4. 11910.543142: bpf_trace_printk: 24233 delay 32952
+
+ test_proc_image-24233   [004] d..4. 11910.543188: bpf_trace_printk: 24238 delay 21090451
+
+     kworker/4:1-174     [004] d..4. 11910.550135: bpf_trace_printk: 24231 delay 32072374
+
+     kworker/4:1-174     [004] d..4. 11910.550190: bpf_trace_printk: 24231 delay 8977
+
+ test_proc_image-24231   [004] d..4. 11910.554514: bpf_trace_printk: 24229 delay 11346506
+
+ test_proc_image-24229   [004] d..4. 11910.554661: bpf_trace_printk: 24064 delay 4839
+
+ test_proc_image-24064   [004] d..4. 11910.554723: bpf_trace_printk: 24229 delay 64112
+
+ test_proc_image-24229   [004] d..4. 11910.554746: bpf_trace_printk: 24234 delay 16662388
+
+ test_proc_image-24234   [004] d..4. 11910.557296: bpf_trace_printk: 24064 delay 7083
+
+ test_proc_image-24064   [004] d..4. 11910.557422: bpf_trace_printk: 24234 delay 128985
+
+ test_proc_image-24234   [004] d..4. 11910.557457: bpf_trace_printk: 24238 delay 7354902
+
+ test_proc_image-24238   [004] d..4. 11910.561695: bpf_trace_printk: 24064 delay 10740
+
+     kworker/4:1-174     [004] d..4. 11910.561815: bpf_trace_printk: 24064 delay 23594
+
+          <idle>-0       [000] d..4. 11910.562380: bpf_trace_printk: 24065 delay 9378
+
+          <idle>-0       [000] d..4. 11910.562625: bpf_trace_printk: 24065 delay 2825
+
+          <idle>-0       [000] d..4. 11910.562678: bpf_trace_printk: 24065 delay 2665
+
+          <idle>-0       [000] d..4. 11910.562717: bpf_trace_printk: 24065 delay 3176
+
+ test_proc_image-24064   [004] d..4. 11910.562763: bpf_trace_printk: 24238 delay 1072538
+
+          <idle>-0       [004] d..4. 11910.562812: bpf_trace_printk: 24064 delay 4068
+
+ test_proc_image-24064   [004] d..4. 11910.562859: bpf_trace_printk: 24238 delay 29015
+
+ test_proc_image-24238   [004] d..4. 11910.562868: bpf_trace_printk: 24064 delay 2364
+
+          <idle>-0       [013] d..4. 11910.564167: bpf_trace_printk: 24066 delay 8346
+
+ test_proc_image-24064   [004] d..4. 11910.564241: bpf_trace_printk: 24238 delay 1371526
+
