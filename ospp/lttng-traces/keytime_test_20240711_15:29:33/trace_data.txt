@@ -1,0 +1,1 @@
+[15:29:36.794181588] (+?.?????????) xhb-23.10 sched_switch: { cpu_id = 4 }, { pid = 5165 }, { prev_comm = "test_proc_image", prev_tid = 5165, prev_prio = 20, prev_state = 32, next_comm = "proc_image", next_tid = 5224, next_prio = 20 }
