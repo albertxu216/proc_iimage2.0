@@ -1,0 +1,4 @@
+syscall_name,max_duration_ns,min_duration_ns,avg_duration_ns,count
+rt_sigprocmask,15000.0,0.0,450.0,560
+close,12000.0,0.0,778.6259541984733,131
+munmap,45000.0,4000.0,8077.519379844961,129

@@ -3,7 +3,7 @@
 #define LTTNG_UST_TRACEPOINT_PROVIDER lock_monitor
 
 #undef LTTNG_UST_TRACEPOINT_INCLUDE
-#define LTTNG_UST_TRACEPOINT_INCLUDE "/home/xhb/proc_image2.0/ospp/lock_tracepoint.h"
+#define LTTNG_UST_TRACEPOINT_INCLUDE "/home/xhb/proc_image2.0/test/lock_tracepoint.h"
 
 #if !defined(LOCK_TRACEPOINT_H) || defined(LTTNG_UST_TRACEPOINT_HEADER_MULTI_READ)
 #define LOCK_TRACEPOINT_H
